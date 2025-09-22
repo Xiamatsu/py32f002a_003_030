@@ -8,11 +8,12 @@
 ```
 Flash/RAM:  16K/2K; 32K/4K; 64K/8K    (для F002A - 32K/4K)
 Max Frequency: 48MHz
-  HSI - 4;8;16;22.12;24 MHz (есть калибровочные константы)
+  HSI - 4;8;16;22.12;24 MHz  (есть калибровочные константы)
   HSE - 4-32 MHz
-  PLL - x2 (from HSI or HSE)
-  LSI - 32.768kHz (есть калибровочная константа)
-  LSE - 0-1000kHz  (F030: lqfp32, qfn32, tssop20 pinout1 )
+  PLL - x2 (from HSI or HSE)  (PLL_in = 16-24 MHz)
+  LSI - 32.768kHz  (есть калибровочная константа)
+  LSE - 0-1000kHz  (F030: lqfp32, qfn32, tssop20 (1,3,4), qfn20 (1) )
+                   (F003: tssop20 (4), qfn20(2) ) 
 DMA - 3ch, IWDG, WWDG, SysTick, RTC
 Timers (16b): Adv:1, GP:4, LP:1, 
 2x USART, 2х SPI, 1x I2C
@@ -179,8 +180,6 @@ pyocd flash --target PY32F030x6 blink.hex
 3. openocd - в процессе изучения 
 
 
-
-
 ### IDE
 
 1. Keil<br>
@@ -189,13 +188,17 @@ pyocd flash --target PY32F030x6 blink.hex
     (минус - библиотека DFP 1.2.8 с ошибкой при создании нового проекта<br>
     для F030 добавляется два комплекта стартап файлов для F030 и F031)<br>
     P.S. ( исправлено  в DFP 1.2.9 - см. папка SDK )
+
 2. Eclipse<br>
     при создании проекта статртап файлы не добавляются (может чего не донастроено)<br>
     при настройке вручную - всё работает.
+
 3. IAR -
     В процессе изучения
+
 4. VSCode + PlatformIO -
     В процессе изучения
+
 
 ### Интересные тесты
 
@@ -214,7 +217,7 @@ pyocd flash --target PY32F030x6 blink.hex
 (pyocd)<br>
 = стирание памяти при Reset, но кроме чипа PY32F030EK28U6 (на демоплате embedfire).<br>
   (проверено на PY32F002AL15S6, PY32F003L24D6, PY32F002AW15U6, PY32F030K28T6, PY32F030EK28U6)<br>
-= данный чип (PY32F030EK28U6) удалось стереть только при подаче питания и
+= данный чип (PY32F030EK28U6) удалось стереть только при подаче питания
 
 (Py32CubeProgrammer)<br>
 = подключение по UART при Boot0-"1" - чип можно перепрограммировать (ISP)
