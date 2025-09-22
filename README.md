@@ -174,8 +174,6 @@ pyocd erase --target PY32F030x6 --chip
 
 - пример команды прошивки (также стирает)
 pyocd flash --target PY32F030x6 blink.hex 
-
-
 ```
 
 3. openocd - в процессе изучения 
