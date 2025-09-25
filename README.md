@@ -86,13 +86,17 @@ sop8,16,20  e=1,27
 //   совпадают  PY32F030F2xPx = PY32F003F1xPx - tssop20<br>
 //   совпадают  PY32F030F2xUx = PY32F003F1xUx - qfn20<br>
 //   совпадают  PY32F030F1xUx = PY32F003F2xUx - qfn20<br>
+$\textsf{\color{red}ВНИМАНИЕ!}$<br>
+$\textsf{\color{orange}для большинства корпусов dfn, qfn:  exposed pad - является единственным контактом Vss !}$  
+
 
 <img src="./images/puya_py32f0xx.png" alt="drawing" width="400"/>
 
 
 ### Демоплаты
+
+$\textsf{\color{blue}1. EmbedFire PY32F030K28U6TR  ( стоит чип PY32F030EK28U6 rev.E )}$
 ```
-1. EmbedFire PY32F030K28U6TR  ( стоит чип PY32F030EK28U6 rev.E )
    LED1      - Power
    LED2,3,4  - PA2,3,4
    Key RST   - Reset (PF4)
@@ -118,13 +122,13 @@ sop8,16,20  e=1,27
 
 ### Программаторы (Windows 10)
 
-1. ST-Link V2
+$\textsf{\color{blue}1. ST-Link V2}$
 ```
 Keil  - работает без проблем
 pyocd - в основном работает (кроме режима стирания при Reset или подаче питания) 
 ```
 
-2. J-Link OB (из BluePill STM32F103)
+$\textsf{\color{blue}2. J-Link OB (из BluePill STM32F103)}$
 ```
 Keil  - работает, только требуется добавить описание контроллеров
         в папку <USER>\AppData\Roaming\SEGGER\JLinkDevices\ 
@@ -134,7 +138,7 @@ Py32CubeProgrammer - работает
 pyocd  - совсем не работает и при любой команде убивается клон J-Link 
 ```
 
-3. CMSIS-DAP  (2 варианта  WCH-LinkE и  SLogic Combo)
+$\textsf{\color{blue}3. CMSIS-DAP  (2 варианта  WCH-LinkE и  SLogic Combo)}$
 ```
 Keil  - работает, только есть ошибка при стирании чипа, 
         но чип стирается, а заливка не проходит
@@ -146,7 +150,7 @@ openocd - пробовал подключать с WCH-LinkE (чип читал 
           openocd - редакция от Puya !
 ```
 
-4. UART (ISP)
+$\textsf{\color{blue}4. UART (ISP)}$
 ```
 Проверено только в Py32CubeProgrammer
 пары выводов для UART (PA2,3; PA9,10; PA14,15)
