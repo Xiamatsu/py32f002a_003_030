@@ -170,7 +170,7 @@ openocd - пробовал подключать с WCH-LinkE (чип читал 
           openocd - редакция от Puya !
 ```
 
-$\textsf{\color{blue}4. UART (ISP)}$
+$\textsf{\color{blue}5. UART (ISP)}$
 ```
 Проверено только в Py32CubeProgrammer
 пары выводов для UART (PA2,3; PA9,10; PA14,15)
@@ -245,7 +245,7 @@ $\textsf{\color{blue}3. IAR -}$<br>
 $\textsf{\color{blue}4. VSCode + EIDE + pyocd -}$<br>
     Выделил в отдельную статью - [EIDE](./EIDE/README.md)
 
-$\textsf{\color{blue}4. VSCode + PlatformIO -}$<br>
+$\textsf{\color{blue}5. VSCode + PlatformIO -}$<br>
     В процессе изучения
 
 
