@@ -136,13 +136,12 @@ $\textsf{\color{blue}2. J-Link OB (клон из BluePill STM32F103)}$
 ```
 Keil   - работает, только требуется добавить описание контроллеров
          в папку <USER>\AppData\Roaming\SEGGER\JLinkDevices\ 
-         распаковать архив
-         ( настройки для F030x6, F030x8, F002B(это чуть другое семейство))
+         скопировать содержимое папки JLinkDevices
+         ( для большинства контроллеров PUYA )
 pyocd  - совсем не работает и при любой команде убивается клон J-Link 
 JFlash - не работает 
 Py32CubeProgrammer - работает
 ```
-[Puya Архив для J-Link](./J-Link/Puya.7z)
 
 
 $\textsf{\color{blue}3. J-Link OB v2 (клон с али на STM32F072)}$

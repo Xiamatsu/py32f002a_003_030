@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<memoryMap>
+  <name>OptionBytes</name>
+  <baseAddress>0x1FFF3100</baseAddress>
+  <addressBlock>
+    <offset>0x0</offset>
+    <size>0x20</size>
+  </addressBlock>
+  <registers>
+    <register>
+      <name>OPTR</name>
+      <description>User Option</description>
+      <addressOffset>0x0</addressOffset>
+      <resetValue>0x2755D8AA</resetValue>
+      <fields>
+        <field>
+          <name>RDP</name>
+          <description>Read protection option byte</description>
+          <bitRange>[7:0]</bitRange>
+          <options>
+            <option Value="0xAA" Display="level 0, read protection disable" Default="1"/>
+            <option Value="0x55" Display="level 1, read protection enable"/>
+          </options>
+        </field>
+        <field>
+          <name>IWDG_SW</name>
+          <description>Independent watchdog</description>
+          <bitRange>[11:11]</bitRange>
+          <options>
+            <option Value="0" Display="Hardware watchdog"/>
+            <option Value="1" Display="Software watchdog" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WWDG_SW</name>
+          <description>Window watchdog</description>
+          <bitRange>[12:12]</bitRange>
+          <options>
+            <option Value="0" Display="Hardware watchdog"/>
+            <option Value="1" Display="Software watchdog" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>NRST_MODE</name>
+          <description>NRST pin mode</description>
+          <bitRange>[13:13]</bitRange>
+          <options>
+            <option Value="0" Display="Reset input only" Default="1"/>
+            <option Value="1" Display="Standard GPIO pad functionality"/>
+          </options>
+        </field>
+        <field>
+          <name>nBOOT1</name>
+          <description>BOOT1 value</description>
+          <bitRange>[14:14]</bitRange>
+          <options>
+            <option Value="0" Display="Boot from Flash if BOOT0 = 0, otherwise Embedded SRAM"/>
+            <option Value="1" Display="Boot from Flash if BOOT0 = 0, otherwise system memory" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>IWDG_STOP</name>
+          <description>IWDG stop mode option byte</description>
+          <bitRange>[15:15]</bitRange>
+          <options>
+            <option Value="0" Display="Freeze IWDG counter in stop mode"/>
+            <option Value="1" Display="IWDG counter active in stop mode" Default="1"/>
+          </options>
+        </field>
+      </fields>
+    </register>
+    <register>
+      <name>SDKR</name>
+      <description>SDK Protection</description>
+      <addressOffset>0x8</addressOffset>
+      <resetValue>0xFFE0001F</resetValue>
+      <fields>
+        <field>
+          <name>SDK_STRT</name>
+          <description>SDK protection start address</description>
+          <bitRange>[4:0]</bitRange>
+          <options>
+            <option Value="0x0" Display="0x08000000"/>
+            <option Value="0x1" Display="0x08001000"/>
+            <option Value="0x2" Display="0x08002000"/>
+            <option Value="0x3" Display="0x08003000"/>
+            <option Value="0x4" Display="0x08004000"/>
+            <option Value="0x5" Display="0x08005000"/>
+            <option Value="0x6" Display="0x08006000"/>
+            <option Value="0x7" Display="0x08007000"/>
+            <option Value="0x8" Display="0x08008000"/>
+            <option Value="0x9" Display="0x08009000"/>
+            <option Value="0xA" Display="0x0800A000"/>
+            <option Value="0xB" Display="0x0800B000"/>
+            <option Value="0xC" Display="0x0800C000"/>
+            <option Value="0xD" Display="0x0800D000"/>
+            <option Value="0xE" Display="0x0800E000"/>
+            <option Value="0xF" Display="0x0800F000"/>
+            <option Value="0x10" Display="0x08010000"/>
+            <option Value="0x11" Display="0x08011000"/>
+            <option Value="0x12" Display="0x08012000"/>
+            <option Value="0x13" Display="0x08013000"/>
+            <option Value="0x14" Display="0x08014000"/>
+            <option Value="0x15" Display="0x08015000"/>
+            <option Value="0x16" Display="0x08016000"/>
+            <option Value="0x17" Display="0x08017000"/>
+            <option Value="0x18" Display="0x08018000"/>
+            <option Value="0x19" Display="0x08019000"/>
+            <option Value="0x1A" Display="0x0801A000"/>
+            <option Value="0x1B" Display="0x0801B000"/>
+            <option Value="0x1C" Display="0x0801C000"/>
+            <option Value="0x1D" Display="0x0801D000"/>
+            <option Value="0x1E" Display="0x0801E000"/>
+            <option Value="0x1F" Display="0x0801F000" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>SDK_END</name>
+          <description>SDK protection end address</description>
+          <bitRange>[12:8]</bitRange>
+          <options>
+            <option Value="0x0" Display="0x08000FFF" Default="1"/>
+            <option Value="0x1" Display="0x08001FFF"/>
+            <option Value="0x2" Display="0x08002FFF"/>
+            <option Value="0x3" Display="0x08003FFF"/>
+            <option Value="0x4" Display="0x08004FFF"/>
+            <option Value="0x5" Display="0x08005FFF"/>
+            <option Value="0x6" Display="0x08006FFF"/>
+            <option Value="0x7" Display="0x08007FFF"/>
+            <option Value="0x8" Display="0x08008FFF"/>
+            <option Value="0x9" Display="0x08009FFF"/>
+            <option Value="0xA" Display="0x0800AFFF"/>
+            <option Value="0xB" Display="0x0800BFFF"/>
+            <option Value="0xC" Display="0x0800CFFF"/>
+            <option Value="0xD" Display="0x0800DFFF"/>
+            <option Value="0xE" Display="0x0800EFFF"/>
+            <option Value="0xF" Display="0x0800FFFF"/>
+            <option Value="0x10" Display="0x08010FFF"/>
+            <option Value="0x11" Display="0x08011FFF"/>
+            <option Value="0x12" Display="0x08012FFF"/>
+            <option Value="0x13" Display="0x08013FFF"/>
+            <option Value="0x14" Display="0x08014FFF"/>
+            <option Value="0x15" Display="0x08015FFF"/>
+            <option Value="0x16" Display="0x08016FFF"/>
+            <option Value="0x17" Display="0x08017FFF"/>
+            <option Value="0x18" Display="0x08018FFF"/>
+            <option Value="0x19" Display="0x08019FFF"/>
+            <option Value="0x1A" Display="0x0801AFFF"/>
+            <option Value="0x1B" Display="0x0801BFFF"/>
+            <option Value="0x1C" Display="0x0801CFFF"/>
+            <option Value="0x1D" Display="0x0801DFFF"/>
+            <option Value="0x1E" Display="0x0801EFFF"/>
+            <option Value="0x1F" Display="0x0801FFFF"/>
+          </options>
+        </field>
+        <field>
+          <name>BOR_EN</name>
+          <description>BOR enable/disable option byte</description>
+          <bitRange>[5:5]</bitRange>
+          <options>
+            <option Value="0" Display="BOR disable" Default="1"/>
+            <option Value="1" Display="BOR enable"/>
+          </options>
+        </field>
+        <field>
+          <name>BOR_LEV</name>
+          <description>These bits contain the supply level threshold that activates/releases the reset</description>
+          <bitRange>[15:13]</bitRange>
+          <options>
+            <option Value="0" Display="BOR level 0, reset level threshold is around 1.8 V" Default="1"/>
+            <option Value="1" Display="BOR level 1, reset level threshold is around 2.0 V"/>
+            <option Value="2" Display="BOR level 2, reset level threshold is around 2.2 V"/>
+            <option Value="3" Display="BOR level 3, reset level threshold is around 2.4 V"/>
+            <option Value="4" Display="BOR level 4, reset level threshold is around 2.6 V"/>
+            <option Value="5" Display="BOR level 5, reset level threshold is around 2.8 V"/>
+            <option Value="6" Display="BOR level 6, reset level threshold is around 3.0 V"/>
+            <option Value="7" Display="BOR level 7, reset level threshold is around 3.2 V"/>
+          </options>
+        </field>
+      </fields>
+    </register>
+    <register>
+      <name>WRPR</name>
+      <description>Write Protection</description>
+      <addressOffset>0x18</addressOffset>
+      <resetValue>0x00000FFFF</resetValue>
+      <fields>
+        <field>
+          <name>WRP0</name>
+          <description>Write protection for 0x08000000 ~ 0x08001FFF</description>
+          <bitRange>[0:0]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP1</name>
+          <description>Write protection for 0x08002000 ~ 0x08003FFF</description>
+          <bitRange>[1:1]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP2</name>
+          <description>Write protection for 0x08004000 ~ 0x08005FFF</description>
+          <bitRange>[2:2]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP3</name>
+          <description>Write protection for 0x08006000 ~ 0x08007FFF</description>
+          <bitRange>[3:3]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP4</name>
+          <description>Write protection for 0x08008000 ~ 0x08009FFF</description>
+          <bitRange>[4:4]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP5</name>
+          <description>Write protection for 0x0800A000 ~ 0x0800BFFF</description>
+          <bitRange>[5:5]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP6</name>
+          <description>Write protection for 0x0800C000 ~ 0x0800DFFF</description>
+          <bitRange>[6:6]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP7</name>
+          <description>Write protection for 0x0800E000 ~ 0x0800FFFF</description>
+          <bitRange>[7:7]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP8</name>
+          <description>Write protection for 0x08010000 ~ 0x08011FFF</description>
+          <bitRange>[8:8]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP9</name>
+          <description>Write protection for 0x08012000 ~ 0x08013FFF</description>
+          <bitRange>[9:9]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP10</name>
+          <description>Write protection for 0x08014000 ~ 0x08015FFF</description>
+          <bitRange>[10:10]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP11</name>
+          <description>Write protection for 0x08016000 ~ 0x08017FFF</description>
+          <bitRange>[11:11]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP12</name>
+          <description>Write protection for 0x08018000 ~ 0x08019FFF</description>
+          <bitRange>[12:12]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP13</name>
+          <description>Write protection for 0x0801A000 ~ 0x0801BFFF</description>
+          <bitRange>[13:13]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP14</name>
+          <description>Write protection for 0x0801C000 ~ 0x0801DFFF</description>
+          <bitRange>[14:14]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+        <field>
+          <name>WRP15</name>
+          <description>Write protection for 0x0801E000 ~ 0x0801FFFF</description>
+          <bitRange>[15:15]</bitRange>
+          <options>
+            <option Value="0" Display="write protection enable"/>
+            <option Value="1" Display="write protection disable" Default="1"/>
+          </options>
+        </field>
+      </fields>
+    </register>
+  </registers>
+</memoryMap>
