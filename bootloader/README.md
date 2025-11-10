@@ -56,7 +56,9 @@ UID - описание смотрим в RM & DS
 #### 0x1FFF0E20-0x1FFF0E23
 ```
 Vrefint 1.2V  correction value
-  32 bit word: high 16 bit - value, low 16 bit - iverted value
+  32 bit word: high 16 bit - value, low 16 bit - complementary value
+  ( example read -  VREF_CAL = *((uint16_t*)0x1FFF0E22); ) 
+
 0x1FFF0E20: 66 EE 99 11
 value = 0x1199
 ```
