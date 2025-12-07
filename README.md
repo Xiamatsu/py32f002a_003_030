@@ -61,7 +61,7 @@ $\textsf{\color{red}!!!   ВСЕ ПРОЕКТЫ можно делать с ша�
 Обновляется довольно часто
 
 Также стараюсь актуальные версии выкладывать в облако
-[DOCS - PY32](https://disk.yandex.ru/d/-6DTrL-0xZCn6g/%5B%20ARM%20%5D/PY32)
+[DOCS - PY32](https://disk.yandex.ru/d/82thvfnrF28y9Q)
 
 ### Ревизии
 
@@ -173,7 +173,7 @@ Py32CubeProgrammer - работает
 ```
 
 $\textsf{\color{blue}4. CMSIS-DAP}$<br>
-(проверено с  WCH-LinkE  и  SLogic Combo)
+(проверено с  WCH-LinkE, SLogic Combo, DAP-Link(f072) )
 ```
 Keil  - работает, только есть ошибка при стирании чипа, 
         но чип стирается, а заливка не проходит
@@ -187,6 +187,9 @@ edbg  - прошивка, стирание, а также работа с option
 openocd - пробовал подключать с WCH-LinkE (чип читал пока только)
           openocd - редакция от Puya !
 ```
+$\textsf{\color{red}ВНИМАНИЕ!}$<br>
+$\textsf{\color{orange}WCH-LinkE в режиме DAP - горят два светодиода красный и синий !}$  
+
 
 $\textsf{\color{blue}5. UART (ISP)}$
 ```
@@ -231,14 +234,58 @@ pyocd flash --target PY32F030x6 blink.hex
 ```
 
 $\textsf{\color{blue}3. edbg}$
+
+исправленная и дополненная версия
+[edbg](./edbg/README.md)
+скомпилированный вариант для Windows
+[edbg.exe](https://disk.yandex.ru/d/82thvfnrF28y9Q/Soft/edbg.exe)
 ```
 работает только с CMSIS-DAP 
-настроена на работу с PY32F002A, PY32F002B
-при записи возможно ограничение на размер Flash для F002A (20K)
+( WCH-LinkE; SLogic Combo; DAP-Link(f072) )
+настроена на работу с PY32F002A+, PY32F002B
+// исправлено от оригинальной версии
+// - с PY32F002B  - не работало совсем добавлен другой target - py32f002b
+// - с PY32F002A+ - настроено на работу со всеми чипами и с определением чипа
+//                  из Factory Config и размера флеша
+//                  изменился target - py32f0xx
 
 есть возможность работать с Option Bytes (lock, unlock) и по отдельности
 Нормально проходит lock (RDP Level 1) и unlock (RDP Level 0)
   только после данных команд надо отключать питание !
+
+ПРИМЕРЫ:
+ прошивка
+   edbg -b -t py32f0xx -p -f <filename>
+
+ прошивка на частоте 1МГц (по умолчанию 16МГц)
+   edbg -b -t py32f0xx -c 1000 -p -f <filename>
+
+ чтение
+   edbg -b -t py32f0xx -r -f <filename>
+
+ стирание 
+   edbg -b -t py32f0xx -e
+
+ стирание на частоте 1МГц со сбросом 10мс
+   edbg -b -t py32f0xx -e -c 1000 -x 10
+
+ прошивка с блокировкой
+   edbg -b -t py32f0xx -p -k -f <filename>
+
+ блокировка
+   edbg -b -t py32f0xx -k
+
+ разблокировка
+   edbg -b -t py32f0xx -u
+
+ чтение option bytes (все 4 байта)
+   edbg -b -t py32f0xx -F r0,:,
+
+ переключение NRST в режим GPIO
+   edbg -b -t py32f0xx -F w0,14,1
+
+ переключение NRST обратно в режим NRST
+   edbg -b -t py32f0xx -F w0,14,0
 ```
 
 $\textsf{\color{blue}4. openocd}$
@@ -262,8 +309,8 @@ $\textsf{\color{blue}2. Eclipse}$<br>
 $\textsf{\color{blue}3. IAR -}$<br>
     В процессе изучения
 
-$\textsf{\color{blue}4. VSCode + EIDE + pyocd -}$<br>
-    Выделил в отдельную статью - [EIDE](./EIDE/README.md)
+$\textsf{\color{blue}4. VSCode + EIDE + pyocd/jlink -}$<br>
+    Сборка примеров переделанных по другому - [eide](./PY32F_eide/README.md)
 
 $\textsf{\color{blue}5. VSCode + PlatformIO -}$<br>
     В процессе изучения
