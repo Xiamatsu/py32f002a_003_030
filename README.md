@@ -372,6 +372,8 @@ SWD; SWC; GND + обязательно конденсатор VCC-GND<br>
 
 Будет позже полный тест, как  для  PY32F002B<br>
 Скорее всего подобно будет<br>
+[HSI PY32F002B](https://github.com/Xiamatsu/py32f002b#hsi-----%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5-%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%BE)
+
 
 Также есть недокументированный параметр  HSI_DIV<br>
 там же где и для PY32F002B<br>
