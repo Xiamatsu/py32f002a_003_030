@@ -105,7 +105,7 @@ sop8,16,20  e=1,27
 ```
 // разводка выводов (pinout) <br>
 // определяется цифрой после буквы количества выводов<br>
-//  $\textsf{PY32F030K\color{red}2\color{black}8T6}$ 8T6 - 2-ой pinout<br>
+//  $\textsf{PY32F030K\color{red}2\color{black}8T6}$ - 2-ой pinout<br>
 //   в основном все разводки разные<br>
 //   совпадают  PY32F030F2xPx = PY32F003F1xPx - tssop20<br>
 //   совпадают  PY32F030F2xUx = PY32F003F1xUx - qfn20<br>
@@ -236,7 +236,7 @@ pyocd flash --target PY32F030x6 blink.hex
 $\textsf{\color{blue}3. edbg}$
 
 исправленная и дополненная версия
-[edbg](./edbg/README.md)
+[edbg](../edbg/README.md)
 скомпилированный вариант для Windows
 [edbg.exe](https://disk.yandex.ru/d/82thvfnrF28y9Q/Soft/edbg.exe)
 ```
@@ -244,7 +244,7 @@ $\textsf{\color{blue}3. edbg}$
 ( WCH-LinkE; SLogic Combo; DAP-Link(f072) )
 настроена на работу с PY32F002A+, PY32F002B
 // исправлено от оригинальной версии
-// - с PY32F002B  - не работало совсем добавлен другой target - py32f002b
+// - с PY32F002B  - не работало совсем, добавлен другой target - py32f002b
 // - с PY32F002A+ - настроено на работу со всеми чипами и с определением чипа
 //                  из Factory Config и размера флеша
 //                  изменился target - py32f0xx
@@ -310,7 +310,7 @@ $\textsf{\color{blue}3. IAR -}$<br>
     В процессе изучения
 
 $\textsf{\color{blue}4. VSCode + EIDE + pyocd/jlink -}$<br>
-    Сборка примеров переделанных по другому - [eide](./PY32F_eide/README.md)
+    Сборка примеров переделанных по другому - [eide](../PY32F_eide/README.md)
 
 $\textsf{\color{blue}5. VSCode + PlatformIO -}$<br>
     В процессе изучения
