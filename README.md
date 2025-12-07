@@ -105,7 +105,7 @@ sop8,16,20  e=1,27
 ```
 // разводка выводов (pinout) <br>
 // определяется цифрой после буквы количества выводов<br>
-// PY32F030K $\textsf{1\color{red}2}$ 8T6 - 2-ой pinout<br>
+//  $\textsf{PY32F030K\color{red}2\color{black}8T6}$ 8T6 - 2-ой pinout<br>
 //   в основном все разводки разные<br>
 //   совпадают  PY32F030F2xPx = PY32F003F1xPx - tssop20<br>
 //   совпадают  PY32F030F2xUx = PY32F003F1xUx - qfn20<br>
