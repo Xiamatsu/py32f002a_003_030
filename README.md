@@ -236,7 +236,7 @@ pyocd flash --target PY32F030x6 blink.hex
 $\textsf{\color{blue}3. edbg}$
 
 исправленная и дополненная версия
-[edbg](../edbg/README.md)
+[edbg](https://github.com/Xiamatsu/edbg)
 скомпилированный вариант для Windows
 [edbg.exe](https://disk.yandex.ru/d/82thvfnrF28y9Q/Soft/edbg.exe)
 ```
@@ -310,7 +310,7 @@ $\textsf{\color{blue}3. IAR -}$<br>
     В процессе изучения
 
 $\textsf{\color{blue}4. VSCode + EIDE + pyocd/jlink -}$<br>
-    Сборка примеров переделанных по другому - [eide](../PY32F_eide/README.md)
+    Сборка примеров переделанных по другому - [eide](https://github.com/Xiamatsu/PY32F_eide)
 
 $\textsf{\color{blue}5. VSCode + PlatformIO -}$<br>
     В процессе изучения
