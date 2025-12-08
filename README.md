@@ -250,19 +250,20 @@ $\textsf{\color{blue}3. edbg}$
 //                  из Factory Config и размера флеша
 //                  изменился target - py32f0xx
 
+принимает только бинарные файлы *.bin
 есть возможность работать с Option Bytes (lock, unlock) и по отдельности
 Нормально проходит lock (RDP Level 1) и unlock (RDP Level 0)
   только после данных команд надо отключать питание !
 
 ПРИМЕРЫ:
  прошивка
-   edbg -b -t py32f0xx -p -f <filename>
+   edbg -b -t py32f0xx -p -f <filename.bin>
 
  прошивка на частоте 1МГц (по умолчанию 16МГц)
-   edbg -b -t py32f0xx -c 1000 -p -f <filename>
+   edbg -b -t py32f0xx -c 1000 -p -f <filename.bin>
 
  чтение
-   edbg -b -t py32f0xx -r -f <filename>
+   edbg -b -t py32f0xx -r -f <filename.bin>
 
  стирание 
    edbg -b -t py32f0xx -e
@@ -271,7 +272,7 @@ $\textsf{\color{blue}3. edbg}$
    edbg -b -t py32f0xx -e -c 1000 -x 10
 
  прошивка с блокировкой
-   edbg -b -t py32f0xx -p -k -f <filename>
+   edbg -b -t py32f0xx -p -k -f <filename.bin>
 
  блокировка
    edbg -b -t py32f0xx -k
