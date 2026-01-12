@@ -333,7 +333,7 @@ $\textsf{\color{blue}5. VSCode + PlatformIO -}$<br>
             в корпусах с малым количеством выводов
 
 Таблица сравнения периферии (синим - ещё не проверено)<br>
-<img src="./images/sravnenie2.png" alt="drawing" width="400"/>
+<img src="./images/sravnenie2.png" alt="drawing" width="600"/>
 
 #### Прошивка с ошибкой - как тест сброса контроллера
 
