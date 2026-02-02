@@ -59,7 +59,7 @@
 	]]>
 	</style>
 
-	<g v:mID="17" v:index="6" v:groupContext="foregroundPage">
+	<g v:mID="17" v:index="7" v:groupContext="foregroundPage">
 		<title>002AL15S6_</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
 				v:shadowOffsetY="-9"/>
@@ -1082,7 +1082,7 @@
 						 -1.51181 L58.34 610.62 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 609.11 a1.54533 0.924427 -75.03
 						 0 0 -1.19806 1.51181 L-1.65 630.27 Z" class="st17"/>
 			<text x="12.9" y="625.84" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>ADC</text>		</g>
-		<g id="shape161-447" v:mID="161" v:groupContext="shape" v:layerMember="1" transform="translate(1043.15,-130.394)">
+		<g id="shape161-447" v:mID="161" v:groupContext="shape" v:layerMember="1" transform="translate(606.614,-130.394)">
 			<title>Лист.161</title>
 			<desc>SYS</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
@@ -1100,15 +1100,15 @@
 						 -1.51181 L58.34 610.62 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 609.11 a1.54533 0.924427 -75.03
 						 0 0 -1.19806 1.51181 L-1.65 630.27 Z" class="st26"/>
 			<text x="9.44" y="625.84" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>TIM1</text>		</g>
-		<g id="shape163-453" v:mID="163" v:groupContext="shape" v:layerMember="1" transform="translate(946.772,-130.394)">
+		<g id="shape163-453" v:mID="163" v:groupContext="shape" v:layerMember="1" transform="translate(949.606,-130.394)">
 			<title>Лист.163</title>
-			<desc>EVENTOUT</desc>
+			<desc>Eventout</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="620.445" width="85.04" height="22.6772"/>
-			<path d="M-2.47 630.27 A1.67254 1.28118 -48.29 0 0 -1.43 631.78 L80.77 631.78 A1.67254 1.28118 -48.29 0 0 82.57 630.27
-						 L87.51 610.62 A1.67254 1.28118 -48.29 0 0 86.47 609.11 L4.27 609.11 A1.67254 1.28118 -48.29 0 0 2.47 610.62
-						 L-2.47 630.27 Z" class="st27"/>
-			<text x="2.39" y="625.84" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>EVENTOUT</text>		</g>
+			<v:textRect cx="36.8504" cy="620.445" width="73.71" height="22.6772"/>
+			<path d="M-2.14 630.27 A1.59715 1.16277 -61.94 0 0 -1.24 631.78 L70 631.78 A1.59715 1.16277 -61.94 0 0 71.56 630.27 L75.84
+						 610.62 A1.59715 1.16277 -61.94 0 0 74.94 609.11 L3.7 609.11 A1.59715 1.16277 -61.94 0 0 2.14 610.62 L-2.14
+						 630.27 Z" class="st27"/>
+			<text x="4.24" y="625.84" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Eventout</text>		</g>
 		<g id="shape164-456" v:mID="164" v:groupContext="shape" v:layerMember="1" transform="translate(334.488,-130.394)">
 			<title>Лист.164</title>
 			<desc>COMP</desc>
@@ -1153,7 +1153,7 @@
 			<v:textRect cx="90.7087" cy="623.279" width="181.42" height="17.0079"/>
 			<rect x="0" y="614.776" width="181.417" height="17.0079" class="st30"/>
 			<text x="7.08" y="630.48" class="st31" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PY32F002AL15S6</text>		</g>
-		<g id="shape185-472" v:mID="185" v:groupContext="shape" v:layerMember="1" transform="translate(739.842,-130.394)">
+		<g id="shape185-472" v:mID="185" v:groupContext="shape" v:layerMember="1" transform="translate(878.74,-130.394)">
 			<title>Лист.185</title>
 			<desc>UART2</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
@@ -1189,7 +1189,7 @@
 						 -1.13386 L52.5 615.91 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 614.78 a1.18052 0.816818 -67.33
 						 0 0 -1.07826 1.13386 L-1.48 630.65 Z" class="st29"/>
 			<text x="5.59" y="628.68" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MOSI</text>		</g>
-		<g id="shape196-484" v:mID="196" v:groupContext="shape" v:layerMember="1" transform="translate(807.874,-130.394)">
+		<g id="shape196-484" v:mID="196" v:groupContext="shape" v:layerMember="1" transform="translate(742.677,-130.394)">
 			<title>Лист.196</title>
 			<desc>TIM14</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
@@ -1310,7 +1310,8 @@
 			<v:textRect cx="215.881" cy="621.153" width="431.77" height="21.2598"/>
 			<rect x="0" y="610.524" width="431.761" height="21.2598" class="st30"/>
 			<text x="8.07" y="626.55" class="st13" v:langID="1049"><v:paragraph/><v:tabList/>- not in the documentation, from the PY32F030 chip</text>		</g>
-		<g id="shape211-525" v:mID="211" v:groupContext="shape" v:layerMember="1" transform="translate(606.614,-130.394)">
+		<g id="shape211-525" v:mID="211" v:groupContext="shape" v:layerMember="3" transform="translate(606.614,-130.394)"
+				display="none">
 			<title>Лист.211</title>
 			<desc>IR *</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
@@ -1319,7 +1320,8 @@
 						 -1.51181 L58.34 610.62 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 609.11 a1.54533 0.924427 -75.03
 						 0 0 -1.19806 1.51181 L-1.65 630.27 Z" class="st38"/>
 			<text x="14.67" y="625.84" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>IR *</text>		</g>
-		<g id="shape212-528" v:mID="212" v:groupContext="shape" v:layerMember="1" transform="translate(541.417,-354.331)">
+		<g id="shape212-528" v:mID="212" v:groupContext="shape" v:layerMember="3" transform="translate(541.417,-354.331)"
+				display="none">
 			<title>Лист.212</title>
 			<desc>IRout</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
@@ -1337,7 +1339,7 @@
 						 -1.13386 L52.5 615.91 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 614.78 a1.18052 0.816818 -67.33
 						 0 0 -1.07826 1.13386 L-1.48 630.65 Z" class="st32"/>
 			<text x="5.62" y="628.68" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2RX</text>		</g>
-		<g id="shape215-534" v:mID="215" v:groupContext="shape" v:layerMember="1" transform="translate(878.74,-130.394)">
+		<g id="shape215-534" v:mID="215" v:groupContext="shape" v:layerMember="1" transform="translate(810.709,-130.394)">
 			<title>Лист.215</title>
 			<desc>TIM17</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>

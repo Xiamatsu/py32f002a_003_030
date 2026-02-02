@@ -62,7 +62,7 @@
 	]]>
 	</style>
 
-	<g v:mID="14" v:index="6" v:groupContext="foregroundPage">
+	<g v:mID="14" v:index="8" v:groupContext="foregroundPage">
 		<title>002AW15U6</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
 				v:shadowOffsetY="-9"/>
@@ -102,9 +102,9 @@
 			<title>Лист.352</title>
 			<path d="M0 818.87 L35.15 818.87" class="st2"/>
 		</g>
-		<g id="shape315-25" v:mID="315" v:groupContext="shape" v:layerMember="0" transform="translate(1564.72,1209.71) rotate(180)">
+		<g id="shape315-25" v:mID="315" v:groupContext="shape" v:layerMember="0" transform="translate(1496.69,1209.71) rotate(180)">
 			<title>Лист.315</title>
-			<path d="M0 818.87 L1258.58 818.87" class="st1"/>
+			<path d="M0 818.87 L1190.55 818.87" class="st1"/>
 		</g>
 		<g id="shape178-28" v:mID="178" v:groupContext="shape" transform="translate(2315.56,64.8543) rotate(90)">
 			<title>Лист.178</title>
@@ -820,7 +820,7 @@
 						 -1.51181 L58.34 797.7 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 796.19 a1.54533 0.924427 -75.03
 						 0 0 -1.19806 1.51181 L-1.65 817.36 Z" class="st11"/>
 			<text x="15.82" y="812.93" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SYS</text>		</g>
-		<g id="shape162-303" v:mID="162" v:groupContext="shape" v:layerMember="1" transform="translate(1400.32,-209.764)">
+		<g id="shape162-303" v:mID="162" v:groupContext="shape" v:layerMember="1" transform="translate(651.969,-209.764)">
 			<title>Лист.162</title>
 			<desc>TIM1</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
@@ -882,7 +882,7 @@
 						 -1.51181 L58.34 797.7 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 796.19 a1.54533 0.924427 -75.03
 						 0 0 -1.19806 1.51181 L-1.65 817.36 Z" class="st24"/>
 			<text x="3.53" y="812.93" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>UART2</text>		</g>
-		<g id="shape186-325" v:mID="186" v:groupContext="shape" v:layerMember="1" transform="translate(1468.35,-209.764)">
+		<g id="shape186-325" v:mID="186" v:groupContext="shape" v:layerMember="1" transform="translate(1400.32,-209.764)">
 			<title>Лист.186</title>
 			<desc>TIM3</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
@@ -1033,7 +1033,8 @@
 			<v:textRect cx="215.881" cy="808.24" width="431.77" height="21.2598"/>
 			<rect x="0" y="797.61" width="431.761" height="21.2598" class="st22"/>
 			<text x="8.07" y="813.64" class="st6" v:langID="1049"><v:paragraph/><v:tabList/>- not in the documentation, from the PY32F030 chip</text>		</g>
-		<g id="shape211-381" v:mID="211" v:groupContext="shape" v:layerMember="1" transform="translate(651.969,-209.764)">
+		<g id="shape211-381" v:mID="211" v:groupContext="shape" v:layerMember="3" transform="translate(651.969,-209.764)"
+				display="none">
 			<title>Лист.211</title>
 			<desc>IR *</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
@@ -1042,7 +1043,8 @@
 						 -1.51181 L58.34 797.7 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 796.19 a1.54533 0.924427 -75.03
 						 0 0 -1.19806 1.51181 L-1.65 817.36 Z" class="st29"/>
 			<text x="14.67" y="812.93" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>IR *</text>		</g>
-		<g id="shape212-384" v:mID="212" v:groupContext="shape" v:layerMember="1" transform="translate(586.772,-345.827)">
+		<g id="shape212-384" v:mID="212" v:groupContext="shape" v:layerMember="3" transform="translate(586.772,-345.827)"
+				display="none">
 			<title>Лист.212</title>
 			<desc>IRout</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
@@ -1419,7 +1421,8 @@
 						 -1.13386 L52.5 803 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 801.86 a1.18052 0.816818 -67.33
 						 0 0 -1.07826 1.13386 L-1.48 817.74 Z" class="st18"/>
 			<text x="4.84" y="815.77" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH1N</text>		</g>
-		<g id="shape314-535" v:mID="314" v:groupContext="shape" v:layerMember="1" transform="translate(1539.21,-419.527)">
+		<g id="shape314-535" v:mID="314" v:groupContext="shape" v:layerMember="3" transform="translate(1539.21,-419.527)"
+				display="none">
 			<title>Лист.314</title>
 			<desc>IRout</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>

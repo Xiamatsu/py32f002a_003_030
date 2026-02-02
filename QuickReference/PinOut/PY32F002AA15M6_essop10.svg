@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG PY32F002AA15M6_essop10.svg 002AA15M6_ -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="23.0267in" height="9.71965in"
+		viewBox="0 0 1657.93 699.815" xml:space="preserve" color-interpolation-filters="sRGB" class="st47">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#0070c0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st2 {fill:#eeeaf2;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {stroke:#bfbfbf;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st5 {fill:#d3d3d3;stroke:#000000;stroke-linecap:butt;stroke-width:1.5}
+		.st6 {fill:#7f7f7f;stroke:#000000;stroke-linecap:butt;stroke-width:1.25}
+		.st7 {fill:#ffffff;font-family:Calibri;font-size:1.5em;font-style:italic}
+		.st8 {fill:#bfbfbf;stroke:#000000;stroke-linecap:butt;stroke-width:1.25}
+		.st9 {fill:#000000;font-family:Calibri;font-size:1.5em;font-style:italic}
+		.st10 {stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st11 {fill:#f2dcda;stroke:#ff0000;stroke-linecap:butt;stroke-width:1.25}
+		.st12 {fill:#ff0000;font-family:Calibri;font-size:1.5em;font-style:italic}
+		.st13 {fill:#a2ceff;stroke:#0060cd;stroke-linecap:butt;stroke-width:1.25}
+		.st14 {fill:#ffe97c;stroke:#ccaa00;stroke-linecap:butt;stroke-width:1.25}
+		.st15 {fill:#dbeef3;stroke:#0060cd;stroke-linecap:butt;stroke-width:1.25}
+		.st16 {fill:#ffe97c;stroke:#ff0000;stroke-linecap:butt;stroke-width:1.25}
+		.st17 {fill:#92cddc;stroke:#0060cd;stroke-linecap:butt;stroke-width:1.25}
+		.st18 {fill:#eeeaf2;stroke:#000000;stroke-linecap:butt;stroke-width:1.25}
+		.st19 {fill:#ffbded;stroke:#cc0092;stroke-linecap:butt;stroke-width:1.25}
+		.st20 {font-size:1em}
+		.st21 {fill:#b5f4d3;stroke:#00cc5f;stroke-linecap:butt;stroke-width:1.25}
+		.st22 {fill:#bbfff0;stroke:#00cca0;stroke-linecap:butt;stroke-width:1.25}
+		.st23 {fill:#e399ff;stroke:#9600cc;stroke-linecap:butt;stroke-width:1.25}
+		.st24 {fill:#88ebf7;stroke:#00b8cc;stroke-linecap:butt;stroke-width:1.25}
+		.st25 {fill:#58e79c;stroke:#000000;stroke-dasharray:5,2.5;stroke-linecap:butt;stroke-width:1.25}
+		.st26 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st27 {fill:#9c4a09;font-family:Calibri;font-size:1.99999em;font-style:italic}
+		.st28 {fill:#ff66d5;stroke:#000000;stroke-dasharray:5,2.5;stroke-linecap:butt;stroke-width:1.25}
+		.st29 {fill:#66ffdd;stroke:#000000;stroke-dasharray:5,2.5;stroke-linecap:butt;stroke-width:1.25}
+		.st30 {fill:#fff2cc;stroke:#000000;stroke-dasharray:5,2.5;stroke-linecap:butt;stroke-width:1.25}
+		.st31 {fill:#f9c499;stroke:#000000;stroke-dasharray:5,2.5;stroke-linecap:butt;stroke-width:1.25}
+		.st32 {fill:#ffe97c;stroke:#000000;stroke-linecap:butt;stroke-width:1.25}
+		.st33 {fill:#ffffff;stroke:#000000;stroke-dasharray:5,2.5;stroke-linecap:butt;stroke-width:1.25}
+		.st34 {fill:#f2dcda;stroke:#000000;stroke-dasharray:5,2.5;stroke-linecap:butt;stroke-width:1.25}
+		.st35 {fill:#dba500;stroke:#000000;stroke-dasharray:5,2.5;stroke-linecap:butt;stroke-width:1.25}
+		.st36 {fill:#0070c0;font-family:Calibri;font-size:1.5em;font-style:italic}
+		.st37 {fill:#c00000;font-family:Calibri;font-size:1.5em;font-style:italic}
+		.st38 {fill:#00b050;font-family:Calibri;font-size:1.5em;font-style:italic}
+		.st39 {fill:#d8d8d8;stroke:#000000;stroke-dasharray:5,2.5;stroke-linecap:butt;stroke-width:1.25}
+		.st40 {fill:#ea700d;font-family:Calibri;font-size:1.5em;font-style:italic}
+		.st41 {fill:#808080;stroke:#000000;stroke-linecap:butt;stroke-width:1.5}
+		.st42 {fill:none;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st43 {fill:#d8d8d8;font-family:Calibri;font-size:1.5em}
+		.st44 {fill:#d8d8d8;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st45 {fill:#d7e3bf;stroke:#00cca0;stroke-linecap:butt;stroke-width:1.25}
+		.st46 {fill:#f38521;stroke:#000000;stroke-dasharray:5,2.5;stroke-linecap:butt;stroke-width:1.25}
+		.st47 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="21" v:index="7" v:groupContext="foregroundPage">
+		<title>002AA15M6_</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<v:layer v:name="0" v:index="0" v:snap="false"/>
+		<v:layer v:name="1" v:index="1" v:active="true"/>
+		<v:layer v:name="price" v:index="2" v:visibility="hidden" v:print="false" v:snap="false" v:glue="false"/>
+		<v:layer v:name="zero" v:index="3" v:visibility="hidden" v:print="false" v:snap="false" v:glue="false"/>
+		<g id="shape303-1" v:mID="303" v:groupContext="shape" v:layerMember="1" transform="translate(1360.63,1127.5) rotate(180)">
+			<title>Лист.303</title>
+			<path d="M0 699.81 L1065.83 699.81" class="st1"/>
+		</g>
+		<g id="shape262-4" v:mID="262" v:groupContext="shape" v:layerMember="1" transform="translate(1565.27,968.764) rotate(180)">
+			<title>Лист.262</title>
+			<path d="M0 699.81 L1270.46 699.81" class="st1"/>
+		</g>
+		<g id="shape181-7" v:mID="181" v:groupContext="shape" v:layerMember="0" transform="translate(300.472,-337.323)">
+			<title>Лист.181</title>
+			<rect x="0" y="654.461" width="1298.27" height="45.3543" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape180-9" v:mID="180" v:groupContext="shape" v:layerMember="0" transform="translate(300.472,-286.299)">
+			<title>Лист.180</title>
+			<rect x="0" y="654.461" width="1298.27" height="45.3543" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape179-11" v:mID="179" v:groupContext="shape" v:layerMember="0" transform="translate(300.472,-510.236)">
+			<title>Лист.179</title>
+			<rect x="0" y="654.461" width="1298.27" height="45.3543" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape178-13" v:mID="178" v:groupContext="shape" transform="translate(2196.51,110.209) rotate(90)">
+			<title>Лист.178</title>
+			<path d="M0 699.81 L218.27 699.81" class="st3"/>
+		</g>
+		<g id="shape177-16" v:mID="177" v:groupContext="shape" transform="translate(2264.54,107.821) rotate(89.8045)">
+			<title>Лист.177</title>
+			<path d="M0 699.81 L269.29 699.81" class="st3"/>
+		</g>
+		<g id="shape176-19" v:mID="176" v:groupContext="shape" transform="translate(2128.48,109.952) rotate(89.979)">
+			<title>Лист.176</title>
+			<path d="M0 699.81 L291.97 699.81" class="st3"/>
+		</g>
+		<g id="shape175-22" v:mID="175" v:groupContext="shape" transform="translate(2060.44,110.209) rotate(90)">
+			<title>Лист.175</title>
+			<path d="M0 699.81 L317.48 699.81" class="st3"/>
+		</g>
+		<g id="shape174-25" v:mID="174" v:groupContext="shape" transform="translate(1924.38,110.209) rotate(90)">
+			<title>Лист.174</title>
+			<path d="M0 699.81 L283.46 699.81" class="st3"/>
+		</g>
+		<g id="shape173-28" v:mID="173" v:groupContext="shape" transform="translate(1788.32,110.209) rotate(90)">
+			<title>Лист.173</title>
+			<path d="M0 699.81 L317.48 699.81" class="st3"/>
+		</g>
+		<g id="shape204-31" v:mID="204" v:groupContext="shape" v:layerMember="1" transform="translate(1856.35,110.209) rotate(90)">
+			<title>Лист.204</title>
+			<path d="M0 699.81 L306.14 699.81" class="st3"/>
+		</g>
+		<g id="shape172-34" v:mID="172" v:groupContext="shape" transform="translate(1720.29,110.209) rotate(90)">
+			<title>Лист.172</title>
+			<path d="M0 699.81 L269.29 699.81" class="st3"/>
+		</g>
+		<g id="shape171-37" v:mID="171" v:groupContext="shape" transform="translate(1652.25,106.49) rotate(89.6956)">
+			<title>Лист.171</title>
+			<path d="M0 699.81 L240.95 699.81" class="st3"/>
+		</g>
+		<g id="shape170-40" v:mID="170" v:groupContext="shape" transform="translate(1448.16,110.209) rotate(90)">
+			<title>Лист.170</title>
+			<path d="M0 699.81 L192.76 699.81" class="st3"/>
+		</g>
+		<g id="shape169-43" v:mID="169" v:groupContext="shape" transform="translate(1380.13,110.209) rotate(90)">
+			<title>Лист.169</title>
+			<path d="M0 699.81 L317.48 699.81" class="st3"/>
+		</g>
+		<g id="shape168-46" v:mID="168" v:groupContext="shape" transform="translate(1312.1,110.209) rotate(90)">
+			<title>Лист.168</title>
+			<path d="M0 699.81 L218.27 699.81" class="st3"/>
+		</g>
+		<g id="shape202-49" v:mID="202" v:groupContext="shape" v:layerMember="1" transform="translate(1516.19,110.209) rotate(90)">
+			<title>Лист.202</title>
+			<path d="M0 699.81 L306.14 699.81" class="st3"/>
+		</g>
+		<g id="shape203-52" v:mID="203" v:groupContext="shape" v:layerMember="1" transform="translate(1584.22,110.209) rotate(90)">
+			<title>Лист.203</title>
+			<path d="M0 699.81 L269.29 699.81" class="st3"/>
+		</g>
+		<g id="shape167-55" v:mID="167" v:groupContext="shape" transform="translate(1244.07,110.209) rotate(90)">
+			<title>Лист.167</title>
+			<path d="M0 699.81 L269.29 699.81" class="st3"/>
+		</g>
+		<g id="shape154-58" v:mID="154" v:groupContext="shape" v:layerMember="0" transform="translate(1565.02,1002.78) rotate(180)">
+			<title>Лист.154</title>
+			<path d="M0 699.81 L1267.39 699.81" class="st1"/>
+		</g>
+		<g id="shape153-61" v:mID="153" v:groupContext="shape" v:layerMember="0" transform="translate(1496.69,1028.29) rotate(180)">
+			<title>Лист.153</title>
+			<path d="M0 699.81 L1190.55 699.81" class="st1"/>
+		</g>
+		<g id="shape150-64" v:mID="150" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1566.36,903.567) rotate(179.982)">
+			<title>Лист.150</title>
+			<path d="M0 699.81 L1251.61 699.81" class="st1"/>
+		</g>
+		<g id="shape151-67" v:mID="151" v:groupContext="shape" v:layerMember="0" transform="translate(1020.47,855.378) rotate(180)">
+			<title>Лист.151</title>
+			<path d="M0 699.81 L714.33 699.81" class="st1"/>
+		</g>
+		<g id="shape152-70" v:mID="152" v:groupContext="shape" v:layerMember="0" transform="translate(1566.14,878.055) rotate(180)">
+			<title>Лист.152</title>
+			<path d="M0 699.81 L1260 699.81" class="st1"/>
+		</g>
+		<g id="shape155-73" v:mID="155" v:groupContext="shape" v:layerMember="0" transform="translate(1565.64,1079.32) rotate(180)">
+			<title>Лист.155</title>
+			<path d="M0 699.81 L1259.5 699.81" class="st1"/>
+		</g>
+		<g id="shape156-76" v:mID="156" v:groupContext="shape" v:layerMember="0" transform="translate(1428.77,1101.99) rotate(180)">
+			<title>Лист.156</title>
+			<path d="M0 699.81 L1122.63 699.81" class="st1"/>
+		</g>
+		<g id="shape66-79" v:mID="66" v:groupContext="shape" transform="translate(411.36,823.216) rotate(172.055)">
+			<title>Лист.66</title>
+			<path d="M0 699.81 L20.01 699.81" class="st4"/>
+		</g>
+		<g id="shape46-82" v:mID="46" v:groupContext="shape" v:layerMember="3" transform="translate(19.5,-19.5)" display="none">
+			<title>Лист.46</title>
+			<ellipse cx="3.17707" cy="696.638" rx="3.17707" ry="3.17707" class="st5"/>
+		</g>
+		<g id="shape47-84" v:mID="47" v:groupContext="shape" v:layerMember="3" transform="translate(1627.09,-668.976)"
+				display="none">
+			<title>Лист.47</title>
+			<ellipse cx="5.66929" cy="694.146" rx="5.66929" ry="5.66929" class="st5"/>
+		</g>
+		<g id="shape48-86" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(953.721,1050.97) rotate(180)">
+			<title>Лист.48</title>
+			<path d="M0 699.81 L647.58 699.81" class="st1"/>
+		</g>
+		<g id="shape49-89" v:mID="49" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-561.26)">
+			<title>Лист.49</title>
+			<desc>Vss</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st6"/>
+			<text x="13.4" y="696.71" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Vss</text>		</g>
+		<g id="shape50-92" v:mID="50" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-388.346)">
+			<title>Лист.50</title>
+			<desc>PA1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st8"/>
+			<text x="11.09" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PA1</text>		</g>
+		<g id="shape51-95" v:mID="51" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-487.559)">
+			<title>Лист.51</title>
+			<desc>PA13</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st8"/>
+			<text x="6.53" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PA13</text>		</g>
+		<g id="shape52-98" v:mID="52" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-362.835)">
+			<title>Лист.52</title>
+			<desc>PA0</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st8"/>
+			<text x="11.09" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PA0</text>		</g>
+		<g id="shape53-101" v:mID="53" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-340.157)">
+			<title>Лист.53</title>
+			<desc>PF2</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st8"/>
+			<text x="12.17" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PF2</text>		</g>
+		<g id="shape54-104" v:mID="54" v:groupContext="shape" transform="translate(1005.96,328.476) rotate(90)">
+			<title>Лист.54</title>
+			<path d="M0 699.81 L22.68 699.81" class="st1"/>
+		</g>
+		<g id="shape55-107" v:mID="55" v:groupContext="shape" transform="translate(158.74,833.067) rotate(180)">
+			<title>Лист.55</title>
+			<path d="M0 699.81 L42.61 699.81" class="st10"/>
+		</g>
+		<g id="shape56-110" v:mID="56" v:groupContext="shape" transform="translate(87.874,-558.425)">
+			<title>Лист.56</title>
+			<desc>Vdd</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st11"/>
+			<text x="11.15" y="696.71" class="st12" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Vdd</text>		</g>
+		<g id="shape57-113" v:mID="57" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-289.134)">
+			<title>Лист.57</title>
+			<desc>PF1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st8"/>
+			<text x="12.17" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PF1</text>		</g>
+		<g id="shape58-116" v:mID="58" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-311.811)">
+			<title>Лист.58</title>
+			<desc>PA5</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st8"/>
+			<text x="11.09" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PA5</text>		</g>
+		<g id="shape59-119" v:mID="59" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-263.622)">
+			<title>Лист.59</title>
+			<desc>PF0</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st8"/>
+			<text x="12.17" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PF0</text>		</g>
+		<g id="shape60-122" v:mID="60" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-513.071)">
+			<title>Лист.60</title>
+			<desc>PA14</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st8"/>
+			<text x="6.53" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PA14</text>		</g>
+		<g id="shape61-125" v:mID="61" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-535.748)">
+			<title>Лист.61</title>
+			<desc>PB3</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st8"/>
+			<text x="11.41" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PB3</text>		</g>
+		<g id="shape62-128" v:mID="62" v:groupContext="shape" transform="translate(158.74,900.732) rotate(180)">
+			<title>Лист.62</title>
+			<path d="M0 699.81 L28.35 699.81" class="st1"/>
+		</g>
+		<g id="shape63-131" v:mID="63" v:groupContext="shape" transform="translate(-393.673,178.24) rotate(-90)">
+			<title>Лист.63</title>
+			<path d="M0 699.81 L22.68 699.81" class="st1"/>
+		</g>
+		<g id="shape64-134" v:mID="64" v:groupContext="shape" transform="translate(1360.63,934.748) rotate(180)">
+			<title>Лист.64</title>
+			<path d="M0 699.81 L1065.83 699.81" class="st1"/>
+		</g>
+		<g id="shape65-137" v:mID="65" v:groupContext="shape" transform="translate(1005.96,379.5) rotate(90)">
+			<title>Лист.65</title>
+			<path d="M0 699.81 L22.68 699.81" class="st1"/>
+		</g>
+		<g id="shape67-140" v:mID="67" v:groupContext="shape" transform="translate(297.638,1002.78) rotate(180)">
+			<title>Лист.67</title>
+			<path d="M0 699.81 L144.57 699.81" class="st1"/>
+		</g>
+		<g id="shape68-143" v:mID="68" v:groupContext="shape" transform="translate(306.142,1090.65) rotate(180)">
+			<title>Лист.68</title>
+			<path d="M0 699.81 L175.75 699.81" class="st1"/>
+		</g>
+		<g id="shape69-146" v:mID="69" v:groupContext="shape" transform="translate(158.74,934.748) rotate(180)">
+			<title>Лист.69</title>
+			<path d="M0 699.81 L17.01 699.81" class="st1"/>
+		</g>
+		<g id="shape70-149" v:mID="70" v:groupContext="shape" transform="translate(158.74,968.764) rotate(180)">
+			<title>Лист.70</title>
+			<path d="M0 699.81 L5.67 699.81" class="st1"/>
+		</g>
+		<g id="shape71-152" v:mID="71" v:groupContext="shape" transform="translate(847.217,274.618) rotate(90)">
+			<title>Лист.71</title>
+			<path d="M0 699.81 L22.68 699.81" class="st1"/>
+		</g>
+		<g id="shape72-155" v:mID="72" v:groupContext="shape" transform="translate(835.878,240.602) rotate(90)">
+			<title>Лист.72</title>
+			<path d="M0 699.81 L93.54 699.81" class="st1"/>
+		</g>
+		<g id="shape73-158" v:mID="73" v:groupContext="shape" transform="translate(824.539,206.587) rotate(90)">
+			<title>Лист.73</title>
+			<path d="M0 699.81 L178.58 699.81" class="st1"/>
+		</g>
+		<g id="shape75-161" v:mID="75" v:groupContext="shape" v:layerMember="1" transform="translate(450.709,-388.346)">
+			<title>Лист.75</title>
+			<desc>A1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st13"/>
+			<text x="15.74" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>A1</text>		</g>
+		<g id="shape76-164" v:mID="76" v:groupContext="shape" v:layerMember="1" transform="translate(450.709,-362.835)">
+			<title>Лист.76</title>
+			<desc>A0</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st13"/>
+			<text x="15.74" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>A0</text>		</g>
+		<g id="shape77-167" v:mID="77" v:groupContext="shape" v:layerMember="1" transform="translate(1539.21,-487.559)">
+			<title>Лист.77</title>
+			<desc>MCO</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st14"/>
+			<text x="7.23" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MCO</text>		</g>
+		<g id="shape78-170" v:mID="78" v:groupContext="shape" v:layerMember="1" transform="translate(382.677,-362.835)">
+			<title>Лист.78</title>
+			<desc>C1in-</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st15"/>
+			<text x="6.8" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>C1in-</text>		</g>
+		<g id="shape79-173" v:mID="79" v:groupContext="shape" v:layerMember="1" transform="translate(382.677,-388.346)">
+			<title>Лист.79</title>
+			<desc>C1in+</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st15"/>
+			<text x="5.07" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>C1in+</text>		</g>
+		<g id="shape80-176" v:mID="80" v:groupContext="shape" v:layerMember="1" transform="translate(926.929,-340.157)">
+			<title>Лист.80</title>
+			<desc>MCO</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st14"/>
+			<text x="7.23" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MCO</text>		</g>
+		<g id="shape81-179" v:mID="81" v:groupContext="shape" v:layerMember="1" transform="translate(382.677,-340.157)">
+			<title>Лист.81</title>
+			<desc>NRST</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st16"/>
+			<text x="6.37" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>NRST</text>		</g>
+		<g id="shape83-182" v:mID="83" v:groupContext="shape" v:layerMember="1" transform="translate(1539.21,-513.071)">
+			<title>Лист.83</title>
+			<desc>MCO</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st14"/>
+			<text x="7.23" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MCO</text>		</g>
+		<g id="shape86-185" v:mID="86" v:groupContext="shape" v:layerMember="1" transform="translate(382.677,-535.748)">
+			<title>Лист.86</title>
+			<desc>C2in-</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st15"/>
+			<text x="6.8" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>C2in-</text>		</g>
+		<g id="shape87-188" v:mID="87" v:groupContext="shape" v:layerMember="1" transform="translate(1539.21,-388.346)">
+			<title>Лист.87</title>
+			<desc>MCO</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st14"/>
+			<text x="7.23" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MCO</text>		</g>
+		<g id="shape91-191" v:mID="91" v:groupContext="shape" v:layerMember="1" transform="translate(382.677,-581.102)">
+			<title>Лист.91</title>
+			<desc>Analog / Sys</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="59.5276" cy="691.311" width="119.06" height="17.0079"/>
+			<path d="M-3.46 698.68 A2.08307 1.08012 -11.17 0 0 -2 699.81 L113.08 699.81 A2.08307 1.08012 -11.17 0 0 115.6 698.68
+						 L122.51 683.94 A2.08307 1.08012 -11.17 0 0 121.06 682.81 L5.97 682.81 A2.08307 1.08012 -11.17 0 0 3.46 683.94
+						 L-3.46 698.68 Z" class="st17"/>
+			<text x="14.6" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Analog / Sys</text>		</g>
+		<g id="shape95-194" v:mID="95" v:groupContext="shape" v:layerMember="1" transform="translate(586.772,-581.102)">
+			<title>Лист.95</title>
+			<desc>AF1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="11.61" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF1</text>		</g>
+		<g id="shape96-197" v:mID="96" v:groupContext="shape" v:layerMember="1" transform="translate(654.803,-581.102)">
+			<title>Лист.96</title>
+			<desc>AF2</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="11.61" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF2</text>		</g>
+		<g id="shape97-200" v:mID="97" v:groupContext="shape" v:layerMember="1" transform="translate(722.835,-581.102)">
+			<title>Лист.97</title>
+			<desc>AF3</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="11.61" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF3</text>		</g>
+		<g id="shape100-203" v:mID="100" v:groupContext="shape" v:layerMember="1" transform="translate(926.929,-581.102)">
+			<title>Лист.100</title>
+			<desc>AF6</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="11.61" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF6</text>		</g>
+		<g id="shape101-206" v:mID="101" v:groupContext="shape" v:layerMember="1" transform="translate(994.961,-581.102)">
+			<title>Лист.101</title>
+			<desc>AF7</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="11.61" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF7</text>		</g>
+		<g id="shape102-209" v:mID="102" v:groupContext="shape" v:layerMember="1" transform="translate(1062.99,-581.102)">
+			<title>Лист.102</title>
+			<desc>AF8</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="11.61" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF8</text>		</g>
+		<g id="shape104-212" v:mID="104" v:groupContext="shape" v:layerMember="1" transform="translate(1199.06,-581.102)">
+			<title>Лист.104</title>
+			<desc>AF10</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="7.05" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF10</text>		</g>
+		<g id="shape105-215" v:mID="105" v:groupContext="shape" v:layerMember="1" transform="translate(1267.09,-581.102)">
+			<title>Лист.105</title>
+			<desc>AF11</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="7.05" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF11</text>		</g>
+		<g id="shape106-218" v:mID="106" v:groupContext="shape" v:layerMember="1" transform="translate(1335.12,-581.102)">
+			<title>Лист.106</title>
+			<desc>AF12</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="7.05" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF12</text>		</g>
+		<g id="shape107-221" v:mID="107" v:groupContext="shape" v:layerMember="1" transform="translate(1403.15,-581.102)">
+			<title>Лист.107</title>
+			<desc>AF13</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="7.05" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF13</text>		</g>
+		<g id="shape108-224" v:mID="108" v:groupContext="shape" v:layerMember="1" transform="translate(1471.18,-581.102)">
+			<title>Лист.108</title>
+			<desc>AF14</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="7.05" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF14</text>		</g>
+		<g id="shape109-227" v:mID="109" v:groupContext="shape" v:layerMember="1" transform="translate(1539.21,-581.102)">
+			<title>Лист.109</title>
+			<desc>AF15</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="7.05" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF15</text>		</g>
+		<g id="shape112-230" v:mID="112" v:groupContext="shape" v:layerMember="1" transform="translate(586.772,-388.346)">
+			<title>Лист.112</title>
+			<desc>U1RTS</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st19"/>
+			<text x="1.83" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U<tspan class="st20"
+						v:langID="1049">1</tspan>RTS</text>		</g>
+		<g id="shape114-234" v:mID="114" v:groupContext="shape" v:layerMember="1" transform="translate(1199.06,-388.346)">
+			<title>Лист.114</title>
+			<desc>MOSI</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st21"/>
+			<text x="5.59" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MOSI</text>		</g>
+		<g id="shape115-237" v:mID="115" v:groupContext="shape" v:layerMember="1" transform="translate(1403.15,-388.346)">
+			<title>Лист.115</title>
+			<desc>CH4</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st22"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH4</text>		</g>
+		<g id="shape116-240" v:mID="116" v:groupContext="shape" v:layerMember="1" transform="translate(1471.18,-388.346)">
+			<title>Лист.116</title>
+			<desc>CH2N</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st22"/>
+			<text x="4.84" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH2N</text>		</g>
+		<g id="shape117-243" v:mID="117" v:groupContext="shape" v:layerMember="1" transform="translate(994.961,-388.346)">
+			<title>Лист.117</title>
+			<desc>EV-out</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st23"/>
+			<text x="0.99" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>EV-out</text>		</g>
+		<g id="shape139-246" v:mID="139" v:groupContext="shape" v:layerMember="1" transform="translate(1199.06,-487.559)">
+			<title>Лист.139</title>
+			<desc>MISO</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st21"/>
+			<text x="5.59" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MISO</text>		</g>
+		<g id="shape140-249" v:mID="140" v:groupContext="shape" v:layerMember="1" transform="translate(1403.15,-487.559)">
+			<title>Лист.140</title>
+			<desc>CH2</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st22"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH2</text>		</g>
+		<g id="shape141-252" v:mID="141" v:groupContext="shape" v:layerMember="1" transform="translate(1062.99,-487.559)">
+			<title>Лист.141</title>
+			<desc>U1RX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st19"/>
+			<text x="5.62" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U1RX</text>		</g>
+		<g id="shape142-255" v:mID="142" v:groupContext="shape" v:layerMember="1" transform="translate(994.961,-487.559)">
+			<title>Лист.142</title>
+			<desc>EV-out</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st23"/>
+			<text x="0.99" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>EV-out</text>		</g>
+		<g id="shape143-258" v:mID="143" v:groupContext="shape" v:layerMember="1" transform="translate(994.961,-513.071)">
+			<title>Лист.143</title>
+			<desc>EV-out</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st23"/>
+			<text x="0.99" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>EV-out</text>		</g>
+		<g id="shape144-261" v:mID="144" v:groupContext="shape" v:layerMember="1" transform="translate(586.772,-513.071)">
+			<title>Лист.144</title>
+			<desc>U1TX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st19"/>
+			<text x="6.12" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U1TX</text>		</g>
+		<g id="shape146-264" v:mID="146" v:groupContext="shape" v:layerMember="1" transform="translate(586.772,-535.748)">
+			<title>Лист.146</title>
+			<desc>CH2</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st22"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH2</text>		</g>
+		<g id="shape147-267" v:mID="147" v:groupContext="shape" v:layerMember="1" transform="translate(722.835,-535.748)">
+			<title>Лист.147</title>
+			<desc>U1RTS</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st19"/>
+			<text x="1.83" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U1RTS</text>		</g>
+		<g id="shape157-270" v:mID="157" v:groupContext="shape" v:layerMember="1" transform="translate(583.937,-209.764)">
+			<title>Лист.157</title>
+			<desc>UART1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st19"/>
+			<text x="3.53" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>UART<tspan
+						class="st20" v:langID="1049">1</tspan></text>		</g>
+		<g id="shape158-274" v:mID="158" v:groupContext="shape" v:layerMember="1" transform="translate(1332.28,-209.764)">
+			<title>Лист.158</title>
+			<desc>I2C</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st24"/>
+			<text x="16.82" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I2C</text>		</g>
+		<g id="shape159-277" v:mID="159" v:groupContext="shape" v:layerMember="1" transform="translate(1197.64,-209.764)">
+			<title>Лист.159</title>
+			<desc>SPI1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st21"/>
+			<text x="12.8" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SPI<tspan class="st20"
+						v:langID="1049">1</tspan></text>		</g>
+		<g id="shape160-281" v:mID="160" v:groupContext="shape" v:layerMember="1" transform="translate(447.874,-209.764)">
+			<title>Лист.160</title>
+			<desc>ADC</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st13"/>
+			<text x="12.9" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>ADC</text>		</g>
+		<g id="shape161-284" v:mID="161" v:groupContext="shape" v:layerMember="1" transform="translate(1088.5,-209.764)">
+			<title>Лист.161</title>
+			<desc>SYS</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st14"/>
+			<text x="15.82" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SYS</text>		</g>
+		<g id="shape162-287" v:mID="162" v:groupContext="shape" v:layerMember="1" transform="translate(1400.32,-209.764)">
+			<title>Лист.162</title>
+			<desc>TIM1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st22"/>
+			<text x="9.44" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>TIM1</text>		</g>
+		<g id="shape163-290" v:mID="163" v:groupContext="shape" v:layerMember="1" transform="translate(994.961,-209.764)">
+			<title>Лист.163</title>
+			<desc>Eventout</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="36.8504" cy="688.476" width="73.71" height="22.6772"/>
+			<path d="M-2.14 698.3 A1.59715 1.16277 -61.94 0 0 -1.24 699.81 L70 699.81 A1.59715 1.16277 -61.94 0 0 71.56 698.3 L75.84
+						 678.65 A1.59715 1.16277 -61.94 0 0 74.94 677.14 L3.7 677.14 A1.59715 1.16277 -61.94 0 0 2.14 678.65 L-2.14
+						 698.3 Z" class="st23"/>
+			<text x="4.24" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Eventout</text>		</g>
+		<g id="shape164-293" v:mID="164" v:groupContext="shape" v:layerMember="1" transform="translate(379.843,-209.764)">
+			<title>Лист.164</title>
+			<desc>COMP</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st15"/>
+			<text x="5.41" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>COMP</text>		</g>
+		<g id="shape165-296" v:mID="165" v:groupContext="shape" v:layerMember="1" transform="translate(311.811,-209.764)">
+			<title>Лист.165</title>
+			<desc>GPIO</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-2.47 698.3 A1.67254 1.28118 -48.29 0 0 -1.43 699.81 L52.43 699.81 A1.67254 1.28118 -48.29 0 0 54.22 698.3
+						 L59.16 678.65 A1.67254 1.28118 -48.29 0 0 58.12 677.14 L4.27 677.14 A1.67254 1.28118 -48.29 0 0 2.47 678.65
+						 L-2.47 698.3 Z" class="st8"/>
+			<text x="9.86" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>GPIO</text>		</g>
+		<g id="shape166-299" v:mID="166" v:groupContext="shape" v:layerMember="1" transform="translate(994.961,-535.748)">
+			<title>Лист.166</title>
+			<desc>EV-out</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st23"/>
+			<text x="0.99" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>EV-out</text>		</g>
+		<g id="shape182-302" v:mID="182" v:groupContext="shape" v:layerMember="1" transform="translate(515.906,-209.764)">
+			<title>Лист.182</title>
+			<desc>SPI2</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st25"/>
+			<text x="12.8" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SPI<tspan class="st20"
+						v:langID="1049">2</tspan></text>		</g>
+		<g id="shape184-306" v:mID="184" v:groupContext="shape" transform="translate(113.386,-637.795)">
+			<title>Лист.184</title>
+			<desc>PY32F002AA15M6</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="94.9606" cy="691.311" width="189.93" height="17.0079"/>
+			<rect x="0" y="682.807" width="189.921" height="17.0079" class="st26"/>
+			<text x="4.6" y="698.51" class="st27" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PY32F002AA15M6</text>		</g>
+		<g id="shape185-309" v:mID="185" v:groupContext="shape" v:layerMember="1" transform="translate(785.197,-209.764)">
+			<title>Лист.185</title>
+			<desc>UART2</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st28"/>
+			<text x="3.53" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>UART2</text>		</g>
+		<g id="shape186-312" v:mID="186" v:groupContext="shape" v:layerMember="1" transform="translate(1468.35,-209.764)">
+			<title>Лист.186</title>
+			<desc>TIM3</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st29"/>
+			<text x="9.44" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>TIM3</text>		</g>
+		<g id="shape196-315" v:mID="196" v:groupContext="shape" v:layerMember="1" transform="translate(651.968,-209.764)">
+			<title>Лист.196</title>
+			<desc>TIM14</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st30"/>
+			<text x="4.88" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>TIM14</text>		</g>
+		<g id="shape198-318" v:mID="198" v:groupContext="shape" v:layerMember="1" transform="translate(1536.38,-209.764)">
+			<title>Лист.198</title>
+			<desc>RTC</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st31"/>
+			<text x="14.37" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>RTC</text>		</g>
+		<g id="shape187-321" v:mID="187" v:groupContext="shape" v:layerMember="1" transform="translate(790.866,-388.346)">
+			<title>Лист.187</title>
+			<desc>U2RTS</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="1.83" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2RTS</text>		</g>
+		<g id="shape188-324" v:mID="188" v:groupContext="shape" v:layerMember="1" transform="translate(1131.02,-388.346)">
+			<title>Лист.188</title>
+			<desc>U2RX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="5.62" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2RX</text>		</g>
+		<g id="shape205-327" v:mID="205" v:groupContext="shape" v:layerMember="1" transform="translate(382.677,-289.134)">
+			<title>Лист.205</title>
+			<desc>OSC2</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st32"/>
+			<text x="6.29" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>OSC2</text>		</g>
+		<g id="shape206-330" v:mID="206" v:groupContext="shape" v:layerMember="1" transform="translate(311.811,-175.748)">
+			<title>Лист.206</title>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st33"/>
+		</g>
+		<g id="shape207-332" v:mID="207" v:groupContext="shape" v:layerMember="1" transform="translate(379.843,-176.457)">
+			<title>Лист.207</title>
+			<desc>- not in the documentation, from the PY32F030 chip</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="215.881" cy="689.185" width="431.77" height="21.2598"/>
+			<rect x="0" y="678.555" width="431.761" height="21.2598" class="st26"/>
+			<text x="8.07" y="694.59" class="st9" v:langID="1049"><v:paragraph/><v:tabList/>- not in the documentation, from the PY32F030 chip</text>		</g>
+		<g id="shape212-335" v:mID="212" v:groupContext="shape" v:layerMember="3" transform="translate(586.772,-487.559)"
+				display="none">
+			<title>Лист.212</title>
+			<desc>IRout</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st34"/>
+			<text x="6.1" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>IRout</text>		</g>
+		<g id="shape215-338" v:mID="215" v:groupContext="shape" v:layerMember="1" transform="translate(853.228,-180)">
+			<title>Лист.215</title>
+			<desc>TIM17</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st35"/>
+			<text x="4.88" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>TIM17</text>		</g>
+		<g id="shape217-341" v:mID="217" v:groupContext="shape" v:layerMember="1" transform="translate(790.866,-513.071)">
+			<title>Лист.217</title>
+			<desc>U2TX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="6.12" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2TX</text>		</g>
+		<g id="shape218-344" v:mID="218" v:groupContext="shape" v:layerMember="1" transform="translate(790.866,-535.748)">
+			<title>Лист.218</title>
+			<desc>U2RTS</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="1.83" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2RTS</text>		</g>
+		<g id="shape219-347" v:mID="219" v:groupContext="shape" v:layerMember="1" transform="translate(308.409,-144.567)">
+			<title>Лист.219</title>
+			<desc>Cortex-M0+; 24MHz; 20K Flash; 3K RAM; 1.7~5.5V; USART1; SPI1;...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="483.591" cy="691.311" width="967.19" height="17.0079"/>
+			<rect x="0" y="682.807" width="967.181" height="17.0079" class="st26"/>
+			<text x="4" y="696.71" class="st36" v:langID="1033"><v:paragraph/><v:tabList/>Cortex-M0+; 24MHz;  20K Flash; 3K RAM; 1.7~5.5V; USART1; SPI1; I2C; TIM1,16; LPTIM; IWDT; ADC12,TS,Vref; COMP1,2; CRC32.</text>		</g>
+		<g id="shape220-350" v:mID="220" v:groupContext="shape" v:layerMember="1" transform="translate(407.622,-119.055)">
+			<title>Лист.220</title>
+			<desc>( Real from PY32F030; 48MHz; 32K Flash; 4K RAM; and + PLL; DM...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="426.898" cy="691.311" width="853.8" height="17.0079"/>
+			<rect x="0" y="682.807" width="853.795" height="17.0079" class="st26"/>
+			<text x="4" y="696.71" class="st37" v:langID="1033"><v:paragraph/><v:tabList/>( Real from PY32F030; 48MHz; 32K Flash; 4K RAM; and + PLL; DMA; USART2; SPI2; TIM3,14,17; RTC; WWDT. )</text>		</g>
+		<g id="shape221-353" v:mID="221" v:groupContext="shape" v:layerMember="2" transform="translate(106.583,-62.3622)"
+				display="none">
+			<title>Лист.221</title>
+			<desc>// Promelec.ru : мин. 72 шт. 10.05 руб/шт. ( 2026.02.01 ) // ...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="251.433" cy="691.311" width="502.87" height="17.0079"/>
+			<rect x="0" y="682.807" width="502.866" height="17.0079" class="st26"/>
+			<text x="4" y="685.91" class="st38" v:langID="1049"><v:paragraph/><v:tabList/>//  <tspan class="st20" v:langID="1033">Promelec.ru :  </tspan>мин. <tspan
+						class="st20" v:langID="1033"> </tspan><tspan class="st20" v:langID="1033">72</tspan> шт.  10.05 руб/шт.    ( 2026.02.01 )<v:lf/><tspan
+						x="4" dy="1.2em" class="st20">//  </tspan><tspan class="st20" v:langID="1033">Ozon.ru :   223 </tspan>руб. / 10 шт.  ( 2026.01.01 )</text>		</g>
+		<g id="shape222-361" v:mID="222" v:groupContext="shape" v:layerMember="1" transform="translate(722.835,-340.157)">
+			<title>Лист.222</title>
+			<desc>MOSI</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st25"/>
+			<text x="5.59" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MOSI</text>		</g>
+		<g id="shape223-364" v:mID="223" v:groupContext="shape" v:layerMember="1" transform="translate(790.866,-340.157)">
+			<title>Лист.223</title>
+			<desc>U2RX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="5.62" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2RX</text>		</g>
+		<g id="shape225-367" v:mID="225" v:groupContext="shape" v:layerMember="1"
+				transform="translate(625.238,695.761) rotate(135)">
+			<title>Лист.225</title>
+			<path d="M0 699.81 L8.02 699.81" class="st1"/>
+		</g>
+		<g id="shape226-370" v:mID="226" v:groupContext="shape" v:layerMember="1"
+				transform="translate(636.576,729.777) rotate(135)">
+			<title>Лист.226</title>
+			<path d="M0 699.81 L8.02 699.81" class="st1"/>
+		</g>
+		<g id="shape227-373" v:mID="227" v:groupContext="shape" v:layerMember="1"
+				transform="translate(647.915,763.793) rotate(135)">
+			<title>Лист.227</title>
+			<path d="M0 699.81 L8.02 699.81" class="st1"/>
+		</g>
+		<g id="shape228-376" v:mID="228" v:groupContext="shape" v:layerMember="1"
+				transform="translate(-341.772,797.81) rotate(-135)">
+			<title>Лист.228</title>
+			<path d="M0 699.81 L8.02 699.81" class="st1"/>
+		</g>
+		<g id="shape229-379" v:mID="229" v:groupContext="shape" v:layerMember="1"
+				transform="translate(-353.112,834.659) rotate(-135)">
+			<title>Лист.229</title>
+			<path d="M0 699.81 L8.02 699.81" class="st1"/>
+		</g>
+		<g id="shape230-382" v:mID="230" v:groupContext="shape" v:layerMember="1"
+				transform="translate(-364.45,885.683) rotate(-135)">
+			<title>Лист.230</title>
+			<path d="M0 699.81 L8.02 699.81" class="st1"/>
+		</g>
+		<g id="shape231-385" v:mID="231" v:groupContext="shape" v:layerMember="1" transform="translate(720,-209.764)">
+			<title>Лист.231</title>
+			<desc>LED</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-2.47 698.3 A1.67254 1.28118 -48.29 0 0 -1.43 699.81 L52.43 699.81 A1.67254 1.28118 -48.29 0 0 54.22 698.3
+						 L59.16 678.65 A1.67254 1.28118 -48.29 0 0 58.12 677.14 L4.27 677.14 A1.67254 1.28118 -48.29 0 0 2.47 678.65
+						 L-2.47 698.3 Z" class="st39"/>
+			<text x="14.63" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>LED</text>		</g>
+		<g id="shape232-388" v:mID="232" v:groupContext="shape" v:layerMember="1" transform="translate(722.835,-388.346)">
+			<title>Лист.232</title>
+			<desc>C</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st39"/>
+			<text x="20.81" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>C</text>		</g>
+		<g id="shape236-391" v:mID="236" v:groupContext="shape" v:layerMember="1" transform="translate(926.929,-535.748)">
+			<title>Лист.236</title>
+			<desc>com1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st39"/>
+			<text x="5.47" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>com1</text>		</g>
+		<g id="shape98-394" v:mID="98" v:groupContext="shape" v:layerMember="1" transform="translate(790.866,-581.102)">
+			<title>Лист.98</title>
+			<desc>AF4</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="11.61" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF4</text>		</g>
+		<g id="shape103-397" v:mID="103" v:groupContext="shape" v:layerMember="1" transform="translate(1131.02,-581.102)">
+			<title>Лист.103</title>
+			<desc>AF9</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="11.61" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF9</text>		</g>
+		<g id="shape99-400" v:mID="99" v:groupContext="shape" v:layerMember="1" transform="translate(858.898,-581.102)">
+			<title>Лист.99</title>
+			<desc>AF5</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="11.61" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF5</text>		</g>
+		<g id="shape74-403" v:mID="74" v:groupContext="shape" v:layerMember="1" transform="translate(518.74,-487.559)">
+			<title>Лист.74</title>
+			<desc>SWD</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st16"/>
+			<text x="7.89" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SWD</text>		</g>
+		<g id="shape84-406" v:mID="84" v:groupContext="shape" v:layerMember="1" transform="translate(518.74,-513.071)">
+			<title>Лист.84</title>
+			<desc>SWC</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st16"/>
+			<text x="8.73" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SWC</text>		</g>
+		<g id="shape93-409" v:mID="93" v:groupContext="shape" v:layerMember="1" transform="translate(518.74,-581.102)">
+			<title>Лист.93</title>
+			<desc>AF0</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st18"/>
+			<text x="11.61" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AF0</text>		</g>
+		<g id="shape113-412" v:mID="113" v:groupContext="shape" v:layerMember="1" transform="translate(518.74,-388.346)">
+			<title>Лист.113</title>
+			<desc>SCK</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st21"/>
+			<text x="12.06" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SCK</text>		</g>
+		<g id="shape145-415" v:mID="145" v:groupContext="shape" v:layerMember="1" transform="translate(518.74,-535.748)">
+			<title>Лист.145</title>
+			<desc>SCK</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st21"/>
+			<text x="12.06" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SCK</text>		</g>
+		<g id="shape239-418" v:mID="239" v:groupContext="shape" v:layerMember="1" transform="translate(320.315,-632.835)">
+			<title>Лист.239</title>
+			<desc>ESSOP-10 ( 3.9x4.9mm e=1.0 )</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="131.811" cy="687.768" width="263.63" height="24.0945"/>
+			<rect x="0" y="675.72" width="263.622" height="24.0945" class="st26"/>
+			<text x="4" y="693.17" class="st40" v:langID="1033"><v:paragraph/><v:tabList/>ESSOP-10 ( 3.9x4.9mm  e=1.0 )</text>		</g>
+		<g id="group251-421" transform="translate(158.74,-408.189)" v:mID="251" v:groupContext="group" v:layerMember="1">
+			<title>Лист.251</title>
+			<g id="shape2-422" v:mID="2" v:groupContext="shape" transform="translate(22.6772,0)">
+				<title>Лист.2</title>
+				<rect x="0" y="518.398" width="90.7087" height="181.417" rx="8.50394" ry="8.50394" class="st41"/>
+			</g>
+			<g id="shape3-424" v:mID="3" v:groupContext="shape" transform="translate(42.5197,-153.071)">
+				<title>Лист.3</title>
+				<ellipse cx="5.66929" cy="694.146" rx="5.66929" ry="5.66929" class="st5"/>
+			</g>
+			<g id="shape5-426" v:mID="5" v:groupContext="shape" transform="translate(28.3465,-150.236)">
+				<title>Лист.5</title>
+				<desc>1</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="4.25197" cy="691.311" width="8.51" height="17.0079"/>
+				<rect x="0" y="682.807" width="8.50394" height="17.0079" class="st42"/>
+				<text x="0" y="696.71" class="st43" v:langID="1049"><v:paragraph/><v:tabList/>1</text>			</g>
+			<g id="shape6-429" v:mID="6" v:groupContext="shape" transform="translate(96.378,-82.9286)">
+				<title>Лист.6</title>
+				<desc>8</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="5.47525" cy="692.035" width="10.96" height="15.5602"/>
+				<rect x="0" y="684.255" width="10.9505" height="15.5602" class="st42"/>
+				<text x="1.83" y="697.43" class="st43" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>8</text>			</g>
+			<g id="shape7-432" v:mID="7" v:groupContext="shape" transform="translate(28.3465,-116.22)">
+				<title>Лист.7</title>
+				<desc>2</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="4.25197" cy="691.311" width="8.51" height="17.0079"/>
+				<rect x="0" y="682.807" width="8.50394" height="17.0079" class="st42"/>
+				<text x="0" y="696.71" class="st43" v:langID="1049"><v:paragraph/><v:tabList/>2</text>			</g>
+			<g id="shape8-435" v:mID="8" v:groupContext="shape" transform="translate(96.378,-48.9128)">
+				<title>Лист.8</title>
+				<desc>7</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="5.47525" cy="692.035" width="10.96" height="15.5602"/>
+				<rect x="0" y="684.255" width="10.9505" height="15.5602" class="st42"/>
+				<text x="1.83" y="697.43" class="st43" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>7</text>			</g>
+			<g id="shape9-438" v:mID="9" v:groupContext="shape" transform="translate(28.7346,-82.9286)">
+				<title>Лист.9</title>
+				<desc>3</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="5.47525" cy="692.035" width="10.96" height="15.5602"/>
+				<rect x="0" y="684.255" width="10.9505" height="15.5602" class="st42"/>
+				<text x="0" y="697.43" class="st43" v:langID="1049"><v:paragraph/><v:tabList/>3</text>			</g>
+			<g id="shape10-441" v:mID="10" v:groupContext="shape" transform="translate(96.378,-14.8971)">
+				<title>Лист.10</title>
+				<desc>6</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="5.47525" cy="692.035" width="10.96" height="15.5602"/>
+				<rect x="0" y="684.255" width="10.9505" height="15.5602" class="st42"/>
+				<text x="1.83" y="697.43" class="st43" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>6</text>			</g>
+			<g id="shape11-444" v:mID="11" v:groupContext="shape" transform="translate(28.7346,-48.189)">
+				<title>Лист.11</title>
+				<desc>4</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="5.47525" cy="692.035" width="10.96" height="15.5602"/>
+				<rect x="0" y="684.255" width="10.9505" height="15.5602" class="st42"/>
+				<text x="0" y="697.43" class="st43" v:langID="1049"><v:paragraph/><v:tabList/>4</text>			</g>
+			<g id="shape12-447" v:mID="12" v:groupContext="shape" transform="translate(27.1232,-14.8971)">
+				<title>Лист.12</title>
+				<desc>5</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="5.47525" cy="692.035" width="10.96" height="15.5602"/>
+				<rect x="0" y="684.255" width="10.9505" height="15.5602" class="st42"/>
+				<text x="1.83" y="697.43" class="st43" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>5</text>			</g>
+			<g id="group248-450" transform="translate(0,-17.0079)" v:mID="248" v:groupContext="group" v:layerMember="1">
+				<title>Лист.248</title>
+				<g id="group14-451" transform="translate(1.43401E-07,-136.063)" v:mID="14" v:groupContext="group">
+					<title>Лист.14</title>
+					<g id="shape15-452" v:mID="15" v:groupContext="shape">
+						<title>Лист.15</title>
+						<rect x="0" y="688.476" width="22.6772" height="11.3386" class="st44"/>
+					</g>
+					<g id="shape16-454" v:mID="16" v:groupContext="shape" transform="translate(713.988,688.476) rotate(90)">
+						<title>Лист.16</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+					<g id="shape17-457" v:mID="17" v:groupContext="shape" transform="translate(708.319,688.476) rotate(90)">
+						<title>Лист.17</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+				</g>
+				<g id="group18-460" transform="translate(1.43401E-07,-102.047)" v:mID="18" v:groupContext="group">
+					<title>Лист.18</title>
+					<g id="shape19-461" v:mID="19" v:groupContext="shape">
+						<title>Лист.19</title>
+						<rect x="0" y="688.476" width="22.6772" height="11.3386" class="st44"/>
+					</g>
+					<g id="shape20-463" v:mID="20" v:groupContext="shape" transform="translate(713.988,688.476) rotate(90)">
+						<title>Лист.20</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+					<g id="shape21-466" v:mID="21" v:groupContext="shape" transform="translate(708.319,688.476) rotate(90)">
+						<title>Лист.21</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+				</g>
+				<g id="group22-469" transform="translate(0,-34.0157)" v:mID="22" v:groupContext="group">
+					<title>Лист.22</title>
+					<g id="shape23-470" v:mID="23" v:groupContext="shape">
+						<title>Лист.23</title>
+						<rect x="0" y="688.476" width="22.6772" height="11.3386" class="st44"/>
+					</g>
+					<g id="shape24-472" v:mID="24" v:groupContext="shape" transform="translate(713.988,688.476) rotate(90)">
+						<title>Лист.24</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+					<g id="shape25-475" v:mID="25" v:groupContext="shape" transform="translate(708.319,688.476) rotate(90)">
+						<title>Лист.25</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+				</g>
+				<g id="group26-478" v:mID="26" v:groupContext="group">
+					<title>Лист.26</title>
+					<g id="shape27-479" v:mID="27" v:groupContext="shape">
+						<title>Лист.27</title>
+						<rect x="0" y="688.476" width="22.6772" height="11.3386" class="st44"/>
+					</g>
+					<g id="shape28-481" v:mID="28" v:groupContext="shape" transform="translate(713.988,688.476) rotate(90)">
+						<title>Лист.28</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+					<g id="shape29-484" v:mID="29" v:groupContext="shape" transform="translate(708.319,688.476) rotate(90)">
+						<title>Лист.29</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+				</g>
+				<g id="group30-487" transform="translate(113.386,-136.063)" v:mID="30" v:groupContext="group">
+					<title>Лист.30</title>
+					<g id="shape31-488" v:mID="31" v:groupContext="shape">
+						<title>Лист.31</title>
+						<rect x="0" y="688.476" width="22.6772" height="11.3386" class="st44"/>
+					</g>
+					<g id="shape32-490" v:mID="32" v:groupContext="shape" transform="translate(713.988,688.476) rotate(90)">
+						<title>Лист.32</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+					<g id="shape33-493" v:mID="33" v:groupContext="shape" transform="translate(708.319,688.476) rotate(90)">
+						<title>Лист.33</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+				</g>
+				<g id="group34-496" transform="translate(113.386,-102.047)" v:mID="34" v:groupContext="group">
+					<title>Лист.34</title>
+					<g id="shape35-497" v:mID="35" v:groupContext="shape">
+						<title>Лист.35</title>
+						<rect x="0" y="688.476" width="22.6772" height="11.3386" class="st44"/>
+					</g>
+					<g id="shape36-499" v:mID="36" v:groupContext="shape" transform="translate(713.988,688.476) rotate(90)">
+						<title>Лист.36</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+					<g id="shape37-502" v:mID="37" v:groupContext="shape" transform="translate(708.319,688.476) rotate(90)">
+						<title>Лист.37</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+				</g>
+				<g id="group38-505" transform="translate(113.386,-34.0157)" v:mID="38" v:groupContext="group">
+					<title>Лист.38</title>
+					<g id="shape39-506" v:mID="39" v:groupContext="shape">
+						<title>Лист.39</title>
+						<rect x="0" y="688.476" width="22.6772" height="11.3386" class="st44"/>
+					</g>
+					<g id="shape40-508" v:mID="40" v:groupContext="shape" transform="translate(713.988,688.476) rotate(90)">
+						<title>Лист.40</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+					<g id="shape41-511" v:mID="41" v:groupContext="shape" transform="translate(708.319,688.476) rotate(90)">
+						<title>Лист.41</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+				</g>
+				<g id="group42-514" transform="translate(113.386,0)" v:mID="42" v:groupContext="group">
+					<title>Лист.42</title>
+					<g id="shape43-515" v:mID="43" v:groupContext="shape">
+						<title>Лист.43</title>
+						<rect x="0" y="688.476" width="22.6772" height="11.3386" class="st44"/>
+					</g>
+					<g id="shape44-517" v:mID="44" v:groupContext="shape" transform="translate(713.988,688.476) rotate(90)">
+						<title>Лист.44</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+					<g id="shape45-520" v:mID="45" v:groupContext="shape" transform="translate(708.319,688.476) rotate(90)">
+						<title>Лист.45</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+				</g>
+				<g id="group240-523" transform="translate(113.386,-68.0315)" v:mID="240" v:groupContext="group" v:layerMember="1">
+					<title>Лист.240</title>
+					<g id="shape241-524" v:mID="241" v:groupContext="shape" v:layerMember="1">
+						<title>Лист.241</title>
+						<rect x="0" y="688.476" width="22.6772" height="11.3386" class="st44"/>
+					</g>
+					<g id="shape242-526" v:mID="242" v:groupContext="shape" v:layerMember="1"
+							transform="translate(713.988,688.476) rotate(90)">
+						<title>Лист.242</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+					<g id="shape243-529" v:mID="243" v:groupContext="shape" v:layerMember="1"
+							transform="translate(708.319,688.476) rotate(90)">
+						<title>Лист.243</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+				</g>
+				<g id="group244-532" transform="translate(1.43401E-07,-68.0315)" v:mID="244" v:groupContext="group"
+						v:layerMember="1">
+					<title>Лист.244</title>
+					<g id="shape245-533" v:mID="245" v:groupContext="shape" v:layerMember="1">
+						<title>Лист.245</title>
+						<rect x="0" y="688.476" width="22.6772" height="11.3386" class="st44"/>
+					</g>
+					<g id="shape246-535" v:mID="246" v:groupContext="shape" v:layerMember="1"
+							transform="translate(713.988,688.476) rotate(90)">
+						<title>Лист.246</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+					<g id="shape247-538" v:mID="247" v:groupContext="shape" v:layerMember="1"
+							transform="translate(708.319,688.476) rotate(90)">
+						<title>Лист.247</title>
+						<path d="M0 699.81 L11.34 699.81" class="st4"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape249-541" v:mID="249" v:groupContext="shape" v:layerMember="1" transform="translate(95.9561,-116.944)">
+				<title>Лист.249</title>
+				<desc>9</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="5.47525" cy="692.035" width="10.96" height="15.5602"/>
+				<rect x="0" y="684.255" width="10.9505" height="15.5602" class="st42"/>
+				<text x="1.83" y="697.43" class="st43" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>9</text>			</g>
+			<g id="shape250-544" v:mID="250" v:groupContext="shape" v:layerMember="1" transform="translate(87.874,-150.96)">
+				<title>Лист.250</title>
+				<desc>10</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="9.22103" cy="692.035" width="18.45" height="15.5602"/>
+				<rect x="0" y="684.255" width="18.4421" height="15.5602" class="st42"/>
+				<text x="0.2" y="697.43" class="st43" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>10</text>			</g>
+		</g>
+		<g id="shape252-547" v:mID="252" v:groupContext="shape" v:layerMember="1"
+				transform="translate(306.142,1039.63) rotate(180)">
+			<title>Лист.252</title>
+			<path d="M0 699.81 L164.41 699.81" class="st1"/>
+		</g>
+		<g id="shape253-550" v:mID="253" v:groupContext="shape" v:layerMember="1"
+				transform="translate(201.697,894.799) rotate(-170.722)">
+			<title>Лист.253</title>
+			<path d="M0 699.81 L19.99 699.81" class="st1"/>
+		</g>
+		<g id="shape254-553" v:mID="254" v:groupContext="shape" v:layerMember="1" transform="translate(294.803,-532.913)">
+			<title>Лист.254</title>
+			<path d="M0 699.81 L11.34 699.81" class="st1"/>
+		</g>
+		<g id="shape255-556" v:mID="255" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-456.378)">
+			<title>Лист.255</title>
+			<desc>PA7</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st8"/>
+			<text x="11.09" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PA7</text>		</g>
+		<g id="shape256-559" v:mID="256" v:groupContext="shape" v:layerMember="1" transform="translate(314.646,-422.362)">
+			<title>Лист.256</title>
+			<desc>PA6</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st8"/>
+			<text x="11.09" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PA6</text>		</g>
+		<g id="shape257-562" v:mID="257" v:groupContext="shape" v:layerMember="1" transform="translate(158.74,866.717) rotate(180)">
+			<title>Лист.257</title>
+			<path d="M0 699.81 L39.69 699.81" class="st1"/>
+		</g>
+		<g id="shape258-565" v:mID="258" v:groupContext="shape" v:layerMember="1" transform="translate(813.201,172.571) rotate(90)">
+			<title>Лист.258</title>
+			<path d="M0 699.81 L249.45 699.81" class="st1"/>
+		</g>
+		<g id="shape259-568" v:mID="259" v:groupContext="shape" v:layerMember="1"
+				transform="translate(613.899,661.745) rotate(135)">
+			<title>Лист.259</title>
+			<path d="M0 699.81 L8.02 699.81" class="st1"/>
+		</g>
+		<g id="shape260-571" v:mID="260" v:groupContext="shape" v:layerMember="1" transform="translate(294.803,1127.5) rotate(180)">
+			<title>Лист.260</title>
+			<path d="M0 699.81 L175.75 699.81" class="st1"/>
+		</g>
+		<g id="shape261-574" v:mID="261" v:groupContext="shape" v:layerMember="1"
+				transform="translate(-375.789,922.533) rotate(-135)">
+			<title>Лист.261</title>
+			<path d="M0 699.81 L8.02 699.81" class="st1"/>
+		</g>
+		<g id="shape263-577" v:mID="263" v:groupContext="shape" v:layerMember="1" transform="translate(382.677,-263.622)">
+			<title>Лист.263</title>
+			<desc>OSC1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st32"/>
+			<text x="6.29" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>OSC1</text>		</g>
+		<g id="shape264-580" v:mID="264" v:groupContext="shape" v:layerMember="1" transform="translate(518.74,-362.835)">
+			<title>Лист.264</title>
+			<desc>SCK</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st25"/>
+			<text x="12.06" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SCK</text>		</g>
+		<g id="shape265-583" v:mID="265" v:groupContext="shape" v:layerMember="1" transform="translate(586.772,-362.835)">
+			<title>Лист.265</title>
+			<desc>U1CTS</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st19"/>
+			<text x="2.02" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U<tspan class="st20"
+						v:langID="1049">1</tspan>CTS</text>		</g>
+		<g id="shape266-587" v:mID="266" v:groupContext="shape" v:layerMember="1" transform="translate(790.866,-362.835)">
+			<title>Лист.266</title>
+			<desc>U2CTS</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="2.02" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2CTS</text>		</g>
+		<g id="shape267-590" v:mID="267" v:groupContext="shape" v:layerMember="1" transform="translate(994.961,-362.835)">
+			<title>Лист.267</title>
+			<desc>C1out</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st15"/>
+			<text x="3.99" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>C1out</text>		</g>
+		<g id="shape268-593" v:mID="268" v:groupContext="shape" v:layerMember="1" transform="translate(1131.02,-362.835)">
+			<title>Лист.268</title>
+			<desc>U2TX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="6.12" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2TX</text>		</g>
+		<g id="shape269-596" v:mID="269" v:groupContext="shape" v:layerMember="1" transform="translate(1199.06,-362.835)">
+			<title>Лист.269</title>
+			<desc>MISO</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st21"/>
+			<text x="5.59" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MISO</text>		</g>
+		<g id="shape270-599" v:mID="270" v:groupContext="shape" v:layerMember="1" transform="translate(1403.15,-362.835)">
+			<title>Лист.270</title>
+			<desc>CH3</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st22"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH3</text>		</g>
+		<g id="shape271-602" v:mID="271" v:groupContext="shape" v:layerMember="1" transform="translate(1471.18,-362.835)">
+			<title>Лист.271</title>
+			<desc>CH1N</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st22"/>
+			<text x="4.84" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH1N</text>		</g>
+		<g id="shape273-605" v:mID="273" v:groupContext="shape" v:layerMember="1" transform="translate(722.835,-362.835)">
+			<title>Лист.273</title>
+			<desc>B</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st39"/>
+			<text x="20.62" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>B</text>		</g>
+		<g id="shape274-608" v:mID="274" v:groupContext="shape" v:layerMember="1" transform="translate(450.709,-311.811)">
+			<title>Лист.274</title>
+			<desc>A5</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st13"/>
+			<text x="15.74" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>A5</text>		</g>
+		<g id="shape275-611" v:mID="275" v:groupContext="shape" v:layerMember="1" transform="translate(858.898,-311.811)">
+			<title>Лист.275</title>
+			<desc>ETR</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st45"/>
+			<text x="11.84" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>ETR</text>		</g>
+		<g id="shape276-614" v:mID="276" v:groupContext="shape" v:layerMember="1" transform="translate(518.74,-311.811)">
+			<title>Лист.276</title>
+			<desc>SCK</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st21"/>
+			<text x="12.06" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SCK</text>		</g>
+		<g id="shape277-617" v:mID="277" v:groupContext="shape" v:layerMember="1" transform="translate(994.961,-311.811)">
+			<title>Лист.277</title>
+			<desc>EV-out</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st23"/>
+			<text x="0.99" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>EV-out</text>		</g>
+		<g id="shape278-620" v:mID="278" v:groupContext="shape" v:layerMember="1" transform="translate(1131.02,-311.811)">
+			<title>Лист.278</title>
+			<desc>U2RX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="5.62" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2RX</text>		</g>
+		<g id="shape279-623" v:mID="279" v:groupContext="shape" v:layerMember="1" transform="translate(1403.15,-311.811)">
+			<title>Лист.279</title>
+			<desc>CH2</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st29"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH2</text>		</g>
+		<g id="shape280-626" v:mID="280" v:groupContext="shape" v:layerMember="1" transform="translate(1539.21,-311.811)">
+			<title>Лист.280</title>
+			<desc>MCO</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st14"/>
+			<text x="7.23" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MCO</text>		</g>
+		<g id="shape281-629" v:mID="281" v:groupContext="shape" v:layerMember="1" transform="translate(722.835,-311.811)">
+			<title>Лист.281</title>
+			<desc>G</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st39"/>
+			<text x="19.83" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>G</text>		</g>
+		<g id="shape282-632" v:mID="282" v:groupContext="shape" v:layerMember="1" transform="translate(450.709,-422.362)">
+			<title>Лист.282</title>
+			<desc>A6</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st13"/>
+			<text x="15.74" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>A6</text>		</g>
+		<g id="shape283-635" v:mID="283" v:groupContext="shape" v:layerMember="1" transform="translate(518.74,-422.362)">
+			<title>Лист.283</title>
+			<desc>MISO</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st21"/>
+			<text x="5.59" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MISO</text>		</g>
+		<g id="shape284-638" v:mID="284" v:groupContext="shape" v:layerMember="1" transform="translate(586.772,-422.362)">
+			<title>Лист.284</title>
+			<desc>CH1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st29"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH1</text>		</g>
+		<g id="shape285-641" v:mID="285" v:groupContext="shape" v:layerMember="1" transform="translate(654.803,-422.362)">
+			<title>Лист.285</title>
+			<desc>BKIN</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st22"/>
+			<text x="7.87" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>BKIN</text>		</g>
+		<g id="shape286-644" v:mID="286" v:groupContext="shape" v:layerMember="1" transform="translate(858.898,-422.362)">
+			<title>Лист.286</title>
+			<desc>CH1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st46"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH1</text>		</g>
+		<g id="shape287-647" v:mID="287" v:groupContext="shape" v:layerMember="1" transform="translate(994.961,-422.362)">
+			<title>Лист.287</title>
+			<desc>C1out</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st15"/>
+			<text x="3.99" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>C1out</text>		</g>
+		<g id="shape288-650" v:mID="288" v:groupContext="shape" v:layerMember="1" transform="translate(1062.99,-422.362)">
+			<title>Лист.288</title>
+			<desc>U1CK</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st19"/>
+			<text x="5.8" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U1CK</text>		</g>
+		<g id="shape289-653" v:mID="289" v:groupContext="shape" v:layerMember="1" transform="translate(1539.21,-422.362)">
+			<title>Лист.289</title>
+			<desc>OUT</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st31"/>
+			<text x="9.46" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>OUT</text>		</g>
+		<g id="shape290-656" v:mID="290" v:groupContext="shape" v:layerMember="1" transform="translate(722.835,-422.362)">
+			<title>Лист.290</title>
+			<desc>DP</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-2.22 698.68 A1.40183 1.0318 -29.7 0 0 -1.29 699.81 L47.18 699.81 A1.40183 1.0318 -29.7 0 0 48.8 698.68 L53.25
+						 683.94 A1.40183 1.0318 -29.7 0 0 52.31 682.81 L3.84 682.81 A1.40183 1.0318 -29.7 0 0 2.22 683.94 L-2.22
+						 698.68 Z" class="st39"/>
+			<text x="15.33" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>DP</text>		</g>
+		<g id="shape291-659" v:mID="291" v:groupContext="shape" v:layerMember="1" transform="translate(586.772,-456.378)">
+			<title>Лист.291</title>
+			<desc>CH2</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st29"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH2</text>		</g>
+		<g id="shape292-662" v:mID="292" v:groupContext="shape" v:layerMember="1" transform="translate(654.803,-456.378)">
+			<title>Лист.292</title>
+			<desc>CH1N</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st22"/>
+			<text x="4.84" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH1N</text>		</g>
+		<g id="shape293-665" v:mID="293" v:groupContext="shape" v:layerMember="1" transform="translate(858.898,-456.378)">
+			<title>Лист.293</title>
+			<desc>CH1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st35"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH1</text>		</g>
+		<g id="shape294-668" v:mID="294" v:groupContext="shape" v:layerMember="1" transform="translate(450.709,-456.378)">
+			<title>Лист.294</title>
+			<desc>A7</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st13"/>
+			<text x="15.74" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>A7</text>		</g>
+		<g id="shape295-671" v:mID="295" v:groupContext="shape" v:layerMember="1" transform="translate(518.74,-456.378)">
+			<title>Лист.295</title>
+			<desc>MOSI</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st21"/>
+			<text x="5.59" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MOSI</text>		</g>
+		<g id="shape296-674" v:mID="296" v:groupContext="shape" v:layerMember="1" transform="translate(926.929,-456.378)">
+			<title>Лист.296</title>
+			<desc>EV-out</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st23"/>
+			<text x="0.99" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>EV-out</text>		</g>
+		<g id="shape297-677" v:mID="297" v:groupContext="shape" v:layerMember="1" transform="translate(994.961,-456.378)">
+			<title>Лист.297</title>
+			<desc>C2out</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st15"/>
+			<text x="3.99" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>C2out</text>		</g>
+		<g id="shape298-680" v:mID="298" v:groupContext="shape" v:layerMember="1" transform="translate(1062.99,-456.378)">
+			<title>Лист.298</title>
+			<desc>U1TX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st19"/>
+			<text x="6.12" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U1TX</text>		</g>
+		<g id="shape299-683" v:mID="299" v:groupContext="shape" v:layerMember="1" transform="translate(1131.02,-456.378)">
+			<title>Лист.299</title>
+			<desc>U2TX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="6.12" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2TX</text>		</g>
+		<g id="shape300-686" v:mID="300" v:groupContext="shape" v:layerMember="1" transform="translate(1199.06,-456.378)">
+			<title>Лист.300</title>
+			<desc>MISO</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st21"/>
+			<text x="5.59" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MISO</text>		</g>
+		<g id="shape301-689" v:mID="301" v:groupContext="shape" v:layerMember="1" transform="translate(1335.12,-456.378)">
+			<title>Лист.301</title>
+			<desc>SDA</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st24"/>
+			<text x="10.7" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SDA</text>		</g>
+		<g id="shape302-692" v:mID="302" v:groupContext="shape" v:layerMember="1" transform="translate(790.866,-456.378)">
+			<title>Лист.302</title>
+			<desc>CH1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st30"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH1</text>		</g>
+		<g id="shape304-695" v:mID="304" v:groupContext="shape" v:layerMember="1" transform="translate(654.803,-263.622)">
+			<title>Лист.304</title>
+			<desc>CH1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st30"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH1</text>		</g>
+		<g id="shape305-698" v:mID="305" v:groupContext="shape" v:layerMember="1" transform="translate(722.835,-263.622)">
+			<title>Лист.305</title>
+			<desc>SCK</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st25"/>
+			<text x="12.06" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SCK</text>		</g>
+		<g id="shape306-701" v:mID="306" v:groupContext="shape" v:layerMember="1" transform="translate(722.835,-289.134)">
+			<title>Лист.306</title>
+			<desc>MISO</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st25"/>
+			<text x="5.59" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MISO</text>		</g>
+		<g id="shape307-704" v:mID="307" v:groupContext="shape" v:layerMember="1" transform="translate(790.866,-263.622)">
+			<title>Лист.307</title>
+			<desc>U2RX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="5.62" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2RX</text>		</g>
+		<g id="shape308-707" v:mID="308" v:groupContext="shape" v:layerMember="1" transform="translate(790.866,-289.134)">
+			<title>Лист.308</title>
+			<desc>U2TX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="6.12" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2TX</text>		</g>
+		<g id="shape309-710" v:mID="309" v:groupContext="shape" v:layerMember="1" transform="translate(1062.99,-263.622)">
+			<title>Лист.309</title>
+			<desc>U1RX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st19"/>
+			<text x="5.62" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U1RX</text>		</g>
+		<g id="shape310-713" v:mID="310" v:groupContext="shape" v:layerMember="1" transform="translate(1062.99,-289.134)">
+			<title>Лист.310</title>
+			<desc>U1TX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st19"/>
+			<text x="6.12" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U1TX</text>		</g>
+		<g id="shape311-716" v:mID="311" v:groupContext="shape" v:layerMember="1" transform="translate(1131.02,-263.622)">
+			<title>Лист.311</title>
+			<desc>U2TX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="6.12" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2TX</text>		</g>
+		<g id="shape312-719" v:mID="312" v:groupContext="shape" v:layerMember="1" transform="translate(1131.02,-289.134)">
+			<title>Лист.312</title>
+			<desc>U2RX</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st28"/>
+			<text x="5.62" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U2RX</text>		</g>
+		<g id="shape313-722" v:mID="313" v:groupContext="shape" v:layerMember="1" transform="translate(1199.06,-289.134)">
+			<title>Лист.313</title>
+			<desc>NSS</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st21"/>
+			<text x="11.57" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>NSS</text>		</g>
+		<g id="shape314-725" v:mID="314" v:groupContext="shape" v:layerMember="1" transform="translate(1335.12,-263.622)">
+			<title>Лист.314</title>
+			<desc>SDA</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st24"/>
+			<text x="10.7" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SDA</text>		</g>
+		<g id="shape315-728" v:mID="315" v:groupContext="shape" v:layerMember="1" transform="translate(1335.12,-289.134)">
+			<title>Лист.315</title>
+			<desc>SCL</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st24"/>
+			<text x="12.96" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SCL</text>		</g>
+		<g id="shape316-731" v:mID="316" v:groupContext="shape" v:layerMember="1" transform="translate(1403.15,-289.134)">
+			<title>Лист.316</title>
+			<desc>CH1</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="691.311" width="51.03" height="17.0079"/>
+			<path d="M-1.48 698.68 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 699.81 a1.18052 0.816818 -67.33 0 0 1.07826
+						 -1.13386 L52.5 683.94 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 682.81 a1.18052 0.816818 -67.33
+						 0 0 -1.07826 1.13386 L-1.48 698.68 Z" class="st30"/>
+			<text x="10.64" y="696.71" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH1</text>		</g>
+		<g id="shape317-734" v:mID="317" v:groupContext="shape" v:layerMember="1" transform="translate(853.228,-209.764)">
+			<title>Лист.317</title>
+			<desc>TIM16</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st46"/>
+			<text x="4.88" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>TIM16</text>		</g>
+		<g id="shape318-737" v:mID="318" v:groupContext="shape" v:layerMember="1" transform="translate(924.095,-209.764)">
+			<title>Лист.318</title>
+			<desc>LPTIM</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="688.476" width="56.7" height="22.6772"/>
+			<path d="M-1.65 698.3 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 699.81 a1.54533 0.924427 -75.03 0 0 1.19806
+						 -1.51181 L58.34 678.65 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 677.14 a1.54533 0.924427 -75.03
+						 0 0 -1.19806 1.51181 L-1.65 698.3 Z" class="st45"/>
+			<text x="5.57" y="693.88" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>LPTIM</text>		</g>
+	</g>
+</svg>
