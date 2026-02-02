@@ -154,7 +154,7 @@ $\textsf{\color{blue}1. EmbedFire PY32F030K28U6TR  ( стоит чип PY32F030E
 или<br>
 
   <details><summary><i>PY32F002AL15S6  sop-8</i></summary>
-    <img scr=https://github.com/Xiamatsu/py32f002a_003_030/blob/main/QuickReference/PinOut/PY32F002AL15S6_sop8.jpg alt='PY32F002AL15S6  sop-8'>
+    <img scr="./QuickReference/PinOut/PY32F002AL15S6_sop8.jpg" width="100%" alt="PY32F002AL15S6  sop-8">
   </details>
 
 
