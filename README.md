@@ -148,6 +148,8 @@ $\textsf{\color{blue}1. EmbedFire PY32F030K28U6TR  ( стоит чип PY32F030E
 Как пример: приведен расклад<br>  
 2x full SPI + 2x USART + 3 i/o - для PY32F002AW15U6 (qfn16 3x3)<br>
 
+[Схемы распиновки](./QuickReference/QR.md)
+
 ### Программаторы (Windows 10)
 
 $\textsf{\color{blue}1. ST-Link V2}$
