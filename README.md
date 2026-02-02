@@ -152,9 +152,11 @@ $\textsf{\color{blue}1. EmbedFire PY32F030K28U6TR  ( стоит чип PY32F030E
 [Схемы распиновки](./QuickReference/QR.md)
 
 или<br>
-  <details><summary><i> PY32F002AL15S6  sop-8 </i></summary>
-    <img scr=./QuickReference/PinOut/PY32F002AL15S6_sop8.jpg alt='PY32F002AL15S6  sop-8'>
+
+  <details><summary><i>PY32F002AL15S6  sop-8</i></summary>
+    <img scr=QuickReference/PinOut/PY32F002AL15S6_sop8.jpg alt='PY32F002AL15S6  sop-8'>
   </details>
+
 
 
 ### Программаторы (Windows 10)
