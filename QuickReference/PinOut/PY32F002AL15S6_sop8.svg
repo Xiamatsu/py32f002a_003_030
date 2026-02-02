@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Создано Microsoft Visio, экспорт SVG PY32F002AL15S6_sop8.svg 002AL15S6_ -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="25.2631in" height="8.77477in"
-		viewBox="0 0 1818.94 631.783" xml:space="preserve" color-interpolation-filters="sRGB" class="st44">
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="22.3968in" height="8.77477in"
+		viewBox="0 0 1612.57 631.783" xml:space="preserve" color-interpolation-filters="sRGB" class="st44">
 	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
 			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
@@ -59,7 +59,7 @@
 	]]>
 	</style>
 
-	<g v:mID="17" v:index="7" v:groupContext="foregroundPage">
+	<g v:mID="17" v:index="8" v:groupContext="foregroundPage">
 		<title>002AL15S6_</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
 				v:shadowOffsetY="-9"/>
@@ -1379,15 +1379,15 @@
 			<title>Лист.219</title>
 			<desc>Cortex-M0+; 24MHz; 20K Flash; 3K RAM; 1.7~5.5V; USART1; SPI1;...</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="719.15" cy="623.279" width="1438.3" height="17.0079"/>
-			<rect x="0" y="614.776" width="1438.3" height="17.0079" class="st30"/>
+			<v:textRect cx="520.441" cy="623.279" width="1040.89" height="17.0079"/>
+			<rect x="0" y="614.776" width="1040.88" height="17.0079" class="st30"/>
 			<text x="4" y="628.68" class="st40" v:langID="1033"><v:paragraph/><v:tabList/>Cortex-M0+; 24MHz;  20K Flash; 3K RAM; 1.7~5.5V; USART1; SPI1; I2C; TIM1,16; LPTIM; IWDT; ADC12,TS,Vref; COMP1,2; CRC32.</text>		</g>
 		<g id="shape220-549" v:mID="220" v:groupContext="shape" v:layerMember="1" transform="translate(362.268,-34.6124)">
 			<title>Лист.220</title>
 			<desc>( Real from PY32F030; 48MHz; 32K Flash; 4K RAM; and + PLL; DM...</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="719.15" cy="623.279" width="1438.3" height="17.0079"/>
-			<rect x="0" y="614.776" width="1438.3" height="17.0079" class="st30"/>
+			<v:textRect cx="414.142" cy="623.279" width="828.29" height="17.0079"/>
+			<rect x="0" y="614.776" width="828.284" height="17.0079" class="st30"/>
 			<text x="4" y="628.68" class="st41" v:langID="1033"><v:paragraph/><v:tabList/>( Real from PY32F030; 48MHz; 32K Flash; 4K RAM; and + PLL; DMA; USART2; SPI2; TIM3,14,17; RTC; WWDT. )</text>		</g>
 		<g id="shape222-552" v:mID="222" v:groupContext="shape" v:layerMember="1" transform="translate(677.48,-388.346)">
 			<title>Лист.222</title>
