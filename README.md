@@ -6,7 +6,7 @@ $\Large\textbf{\color{orange}Введение}$<br>
 (в PY32F030 есть управление LED сегментными индикаторами и возможно только в корпусах 32pin)<br>
 $\textsf{\color{red}! не путать с PY32F002B это другие чипы --> }$ [PY32F002B](https://github.com/Xiamatsu/py32f002b) 
 
-$\large\textit{Внутренняя периферия}$<br>
+$\large\textit{color{orange}Внутренняя периферия}$<br>
 ```
 Flash/RAM:  16K/2K; 32K/4K; 64K/8K    (для F002A - 32K/4K)
 Max Frequency: 48MHz
