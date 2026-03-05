@@ -6,7 +6,7 @@ $\Large\textbf{\color{orange}Введение}$<br>
 (в PY32F030 есть управление LED сегментными индикаторами и возможно только в корпусах 32pin)<br>
 $\textsf{\color{red}! не путать с PY32F002B это другие чипы --> }$ [PY32F002B](https://github.com/Xiamatsu/py32f002b) 
 
-$\large\textit{\color{orange}Внутренняя периферия}$<br>
+$\large\textsf{\color{orange}Внутренняя периферия}$<br>
 ```
 Flash/RAM:  16K/2K; 32K/4K; 64K/8K    (для F002A - 32K/4K)
 Max Frequency: 48MHz
@@ -116,14 +116,13 @@ sop8,16,20  e=1,27
 $\textsf{\color{red}ВНИМАНИЕ!}$<br>
 $\textsf{\color{orange}для большинства корпусов dfn, qfn:  exposed pad - является единственным контактом Vss !}$  
 
-
 <img src="./images/puya_py32f0xx.png" alt="drawing" width="400"/>
 
-
-### Демоплаты
+$\Large\textbf{\color{orange}Демоплаты}$<br>
 
 $\textsf{\color{blue}1. EmbedFire PY32F030K28U6TR  ( стоит чип PY32F030EK28U6 rev.E )}$
-```
+
+``` text
    LED1      - Power
    LED2,3,4  - PA2,3,4
    Key RST   - Reset (PF4)
@@ -137,8 +136,7 @@ $\textsf{\color{blue}1. EmbedFire PY32F030K28U6TR  ( стоит чип PY32F030E
 
 Схемы и описания демоплат в папке - DemoBoard
 
-
-### Ремапинг 
+$\Large\textbf{\color{orange}Ремапинг}$<br>
 
 Очень богатый выбор ремапинга функций портов (альтернативные функции)<br>
 Индивидуально можно настроить каждый пин.<br>
@@ -196,7 +194,7 @@ openocd - пробовал подключать с WCH-LinkE (чип читал 
           openocd - редакция от Puya !
 ```
 $\textsf{\color{red}ВНИМАНИЕ!}$<br>
-$\textsf{\color{orange}WCH-LinkE в режиме DAP - горят два светодиода красный и синий !}$  
+$\textsf{\color{green}WCH-LinkE в режиме DAP - горят два светодиода красный и синий !}$  
 
 
 $\textsf{\color{blue}5. UART (ISP)}$
@@ -319,7 +317,7 @@ $\textsf{\color{blue}3. IAR -}$<br>
     В процессе изучения
 
 $\textsf{\color{blue}4. VSCode + EIDE + pyocd/jlink -}$<br>
-    Сборка примеров переделанных по другому - [eide](https://github.com/Xiamatsu/PY32F_eide)
+    Сборка примеров переделанных по другому - [eide](https://github.com/Xiamatsu/PY32F0xx)
 
 $\textsf{\color{blue}5. VSCode + PlatformIO -}$<br>
     В процессе изучения
@@ -400,6 +398,7 @@ SWD; SWC; GND + обязательно конденсатор VCC-GND<br>
    TRIM_H - задаёт % изменения к существующему от min до max1
             TRIM_H = 0b0001   + ~ 4%
             TRIM_H = 0b0010   + ~ 9%
+            TRIM_H = 0b0011   + ~ 9%
             TRIM_H = 0b0100   + ~ 14%
             TRIM_H = 0b0101   + ~ 20%
             TRIM_H = 0b0110   + ~ 26%
@@ -407,6 +406,7 @@ SWD; SWC; GND + обязательно конденсатор VCC-GND<br>
             TRIM_H = 0b1000   + ~ 41%
             TRIM_H = 0b1001   + ~ 50%
             TRIM_H = 0b1010   + ~ 60%
+            TRIM_H = 0b1011   + ~ 60%
             TRIM_H = 0b1100   + ~ 70%
             TRIM_H = 0b1101   + ~ 84%
             TRIM_H = 0b1110   + ~ 100%
@@ -446,7 +446,10 @@ SWD; SWC; GND + обязательно конденсатор VCC-GND<br>
    ---------------------------
    самый маленький PY32F003L24D6 (dfn-8) удалось запустить на 100 МГц
 
-4. GPIO PF2 - выдаёт MCO - ~ до 31 MHz 
+4. GPIO PA5 - выдаёт MCO - до 100 MHz 
+   FastIO работает 
+   при переключении порта - 50 МГц импульсы
+   ( run in RAM - 100 МГц ) 
 
 5. Также есть недокументированный параметр  HSI_DIV
    там же где и для PY32F002B - RCC-CR - bit 13-11
@@ -464,19 +467,21 @@ SWD; SWC; GND + обязательно конденсатор VCC-GND<br>
 ветвление - при переходе 2 такта - иначе 1 такт
 LDR,STR - при обращении к портам - 1 такт
 LDR - при обращении к Flash через PC - 2 такта
-LDR,STR - при обращении к RAM - 2-4 такта
-PUSH,POP - 3-4 такта на 1 регистр и +1 на каждый следующий
+LDR,STR - при обращении к RAM - 4 такта
+LDM,STM,PUSH,POP - 4 такта на 1-ый регистр и +1 на каждый следующий
+B  - безусловный переход  - 2-3 такта
 BX - переход по регистру -  3 такта
 BL - пререход к подпрограмме  - 4 такта
 ...
 
-работа в RAM
+- работа в RAM
 не замедляется, как ожидалось
 в основном все инструкции выполняются за 1 такт 
 ветвление - при переходе 2-3 такта - иначе 1 такт
 LDR,STR - при обращении к RAM - 2 такта
-LDR - при обращении к Flash через PC - 3 такта
-PUSH,POP - 2-3 такта на 1 регистр и +1 на каждый следующий
+LDR - при обращении к Flash через PC - 4 такта
+LDM,STM,PUSH,POP - 2 такта на 1 регистр и +1 на каждый следующий
+B  - безусловный переход  - 2-3 такта
 BX - переход по регистру -  3 такта
 BL - пререход к подпрограмме  - 4 такта
 ...
