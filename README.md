@@ -398,19 +398,19 @@ SWD; SWC; GND + обязательно конденсатор VCC-GND<br>
    TRIM_H - задаёт % изменения к существующему от min до max1
             TRIM_H = 0b0001   + ~ 4%
             TRIM_H = 0b0010   + ~ 9%
-            TRIM_H = 0b0011   + ~ 9%
-            TRIM_H = 0b0100   + ~ 14%
-            TRIM_H = 0b0101   + ~ 20%
-            TRIM_H = 0b0110   + ~ 26%
-            TRIM_H = 0b0111   + ~ 33%
-            TRIM_H = 0b1000   + ~ 41%
-            TRIM_H = 0b1001   + ~ 50%
-            TRIM_H = 0b1010   + ~ 60%
-            TRIM_H = 0b1011   + ~ 60%
-            TRIM_H = 0b1100   + ~ 70%
-            TRIM_H = 0b1101   + ~ 84%
-            TRIM_H = 0b1110   + ~ 100%
-            TRIM_H = 0b1111   + ~ 140%
+            TRIM_H = 0b0011   + ~ 14%
+            TRIM_H = 0b0100   + ~ 20%
+            TRIM_H = 0b0101   + ~ 26%
+            TRIM_H = 0b0110   + ~ 33%
+            TRIM_H = 0b0111   + ~ 41%
+            TRIM_H = 0b1000   + ~ 50%
+            TRIM_H = 0b1001   + ~ 60%
+            TRIM_H = 0b1010   + ~ 70%
+            TRIM_H = 0b1011   + ~ 84%
+            TRIM_H = 0b1100   + ~ 100%
+            TRIM_H = 0b1101   + ~ 118%
+            TRIM_H = 0b1110   + ~ 140%
+            TRIM_H = 0b1111   + ~ 166%
 
             max2  -  TRIM_L = 0x1FF   TRIM_H = 0b1111         
 
