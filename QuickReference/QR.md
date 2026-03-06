@@ -11,6 +11,8 @@ $\Large\textbf{\color{orange}Quick Reference}$
 
 ![PY32F002AW15U6](./PinOut/PY32F002AW15U6_qfn16.svg)
 
+![PY32F002AF15T6](./PinOut/PY32F002AF15T6_tssop20.svg)
+
 ### -- PY32F003 --
 
 ![PY32F003L24D6](./PinOut/PY32F003L24D6_dfn8.svg)
