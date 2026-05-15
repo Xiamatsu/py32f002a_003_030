@@ -6,7 +6,7 @@ $\Large\textbf{\color{orange}Введение}$<br>
 (в PY32F030 есть управление LED сегментными индикаторами и возможно только в корпусах 32pin)<br>
 $\textsf{\color{red}! не путать с PY32F002B это другие чипы --> }$ [PY32F002B](https://github.com/Xiamatsu/py32f002b) 
 
-$\large\textsf{\color{orange}Внутренняя периферия}$<br>
+$\Large\textsf{\color{orange}Внутренняя периферия}$<br>
 ```
 Flash/RAM:  16K/2K; 32K/4K; 64K/8K    (для F002A - 32K/4K)
 Max Frequency: 48MHz
@@ -300,7 +300,7 @@ $\textsf{\color{blue}4. openocd}$
  - в процессе изучения 
 ```
 
-### IDE
+$\Large\textbf{\color{orange}IDE}$<br>
 
 $\textsf{\color{blue}1. Keil}$<br>
     нормально можно работать, учитывая отладчик встроенный<br>
@@ -314,7 +314,7 @@ $\textsf{\color{blue}2. Eclipse}$<br>
     при настройке вручную - всё работает.
 
 $\textsf{\color{blue}3. IAR -}$<br>
-    В процессе изучения
+    примеры можно посмотреть - тест Coremark (см. ниже ссылка)
 
 $\textsf{\color{blue}4. VSCode + EIDE + pyocd/jlink -}$<br>
     Сборка примеров переделанных по другому - [eide](https://github.com/Xiamatsu/PY32F0xx)
@@ -322,8 +322,13 @@ $\textsf{\color{blue}4. VSCode + EIDE + pyocd/jlink -}$<br>
 $\textsf{\color{blue}5. VSCode + PlatformIO -}$<br>
     В процессе изучения
 
+$\Large\textbf{\color{orange}Интересные тесты}$<br>
 
-### Интересные тесты
+#### Тест Coremark
+
+[Исходники](https://github.com/Xiamatsu/Coremark)<br>
+[Результаты](https://docs.google.com/spreadsheets/d/1Efv9o9Q0RhQnE3t0KpEYy8XxTBr_Hkxc-rqZPL5IJyA/edit?usp=sharing)<br>
+таблица сравнения разных MCU  (закладка Coremark, закладка Tests - сравнение компиляторов) 
 
 #### Проверка что это один и тот-же кристалл
 
