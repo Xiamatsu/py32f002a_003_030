@@ -239,7 +239,7 @@ pyocd flash --target PY32F030x6 blink.hex
 !!! не работает с заблокированным чипом (RDP Level 1)
 ```
 
-$\textsf{\color{blue}3. edbg}$
+### $\textsf{\color{blue}3. edbg}$
 
 исправленная и дополненная версия
 [edbg](https://github.com/Xiamatsu/edbg)
