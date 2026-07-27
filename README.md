@@ -209,7 +209,7 @@ $\textsf{\color{blue}5. UART (ISP)}$
 
 ### Утилиты 
 
-$\textsf{\color{blue}1. Py32CubeProgrammer}$
+### $\textsf{\color{blue}1. Py32CubeProgrammer}$
 ```
 работает с J-Link и через UART (ISP BOOT0='1')
 
@@ -220,7 +220,7 @@ $\textsf{\color{blue}1. Py32CubeProgrammer}$
 странно очень
 ```
 
-$\textsf{\color{blue}2. pyocd}$
+### $\textsf{\color{blue}2. pyocd}$
 ```
 для работы с pyocd нужны файл конфигурации и пакет DFP
 
@@ -295,7 +295,7 @@ pyocd flash --target PY32F030x6 blink.hex
    edbg -b -t py32f0xx -F w0,14,0
 ```
 
-$\textsf{\color{blue}4. openocd}$
+### $\textsf{\color{blue}4. openocd}$
 ```
  - в процессе изучения 
 ```
