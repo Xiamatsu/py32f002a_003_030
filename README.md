@@ -35,7 +35,7 @@ $\textsf{\color{red}!!!   ВСЕ ПРОЕКТЫ можно делать с ша�
 ( для F002A - используем шаблон PY32F030x6 )<br>
 // и это охватывает почти все варианты, учитывая что 16K/2K очень мало чипов
 
-$\Large\textbf{\color{orange}Особенности}$<br>
+### $\Large\textbf{\color{orange}Особенности}$<br>
 ```
 ---  Медленная ОЗУ - команды чтения/записи  (LDR/STR)  выполняются по 4 такта  "МИНУС !!!"
        (доступ к портам  - чтение/запись  (LDR/STR) - только по 1 такту)
@@ -57,7 +57,7 @@ $\Large\textbf{\color{orange}Особенности}$<br>
        режим сразу со сбросом и прошивкой (стиранием)       
 ```
 
-$\Large\textbf{\color{orange}Документация и программы}$<br>
+### $\Large\textbf{\color{orange}Документация и программы}$<br>
 
 Информация есть на китайской версии сайта компании PUYA. (puyasemi.com) <br>
 На английской версии сайта данных микроконтроллеров - нет.<br>
@@ -66,7 +66,7 @@ $\Large\textbf{\color{orange}Документация и программы}$<br
 Также стараюсь актуальные версии выкладывать в облако
 [DOCS - PY32](https://disk.yandex.ru/d/82thvfnrF28y9Q)
 
-$\Large\textbf{\color{orange}Ревизии}$<br>
+### $\Large\textbf{\color{orange}Ревизии}$<br>
 
 На данный момент есть две ревизии - 'B' и 'E'<br>
 номер на чипе в последней строке, последняя буква  'B' или 'E'<br>
@@ -79,7 +79,7 @@ $\Large\textbf{\color{orange}Ревизии}$<br>
 PLL_IN - только 24 MHz<br>
 В ревизии 'B':  16 - 24 MHz
 
-$\Large\textbf{\color{orange}Корпуса}$<br>
+### $\Large\textbf{\color{orange}Корпуса}$<br>
 ```
 lqfp32        - F030 ( 1,2 pinouts )
 qfn32(5x5)    - F030 ( 2,3 pinouts )
@@ -118,7 +118,7 @@ $\textsf{\color{orange}для большинства корпусов dfn, qfn: 
 
 <img src="./images/puya_py32f0xx.png" alt="drawing" width="400"/>
 
-$\Large\textbf{\color{orange}Демоплаты}$<br>
+### $\Large\textbf{\color{orange}Демоплаты}$<br>
 
 $\textsf{\color{blue}1. EmbedFire PY32F030K28U6TR  ( стоит чип PY32F030EK28U6 rev.E )}$
 
@@ -136,7 +136,7 @@ $\textsf{\color{blue}1. EmbedFire PY32F030K28U6TR  ( стоит чип PY32F030E
 
 Схемы и описания демоплат в папке - [DemoBoard](/DemoBoard/)
 
-$\Large\textbf{\color{orange}Ремапинг}$<br>
+### $\Large\textbf{\color{orange}Ремапинг}$<br>
 
 Очень богатый выбор ремапинга функций портов (альтернативные функции)<br>
 Индивидуально можно настроить каждый пин.<br>
