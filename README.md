@@ -134,7 +134,7 @@ $\textsf{\color{blue}1. EmbedFire PY32F030K28U6TR  ( стоит чип PY32F030E
 
 <img src="./images/embedfire_f030.png" alt="drawing" width="400"/>
 
-Схемы и описания демоплат в папке - DemoBoard
+Схемы и описания демоплат в папке - [DemoBoard](/DemoBoard/)
 
 $\Large\textbf{\color{orange}Ремапинг}$<br>
 
